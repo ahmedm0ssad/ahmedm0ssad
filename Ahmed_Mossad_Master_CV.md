@@ -136,6 +136,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 1. Explainable AI (XAI) for Credit Risk Assessment
 **Date:** 2025 | **Language:** Python
 **Libraries:** pandas, numpy, scikit-learn, tensorflow/keras, xgboost, lightgbm, shap, lime, matplotlib, seaborn
+**GitHub:** [XAI-Credit-Risk-Assessment](https://github.com/ahmedm0ssad/XAI-Credit-Risk-Assessment)
 
 - Designed a comprehensive pipeline for data preprocessing, model training, and performance evaluation on the Lending Club dataset for loan default prediction.
 - Implemented and compared Decision Trees, XGBoost, LightGBM, and Deep Neural Networks, achieving high AUC scores.
