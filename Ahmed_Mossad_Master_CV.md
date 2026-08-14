@@ -849,6 +849,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 - **AI Fluency: Framework & Foundations** — Anthropic Academy (2026)
   AI fluency and foundations credential for working effectively with large language model systems.
+  [Verify certificate](https://verify.skilljar.com/c/w6om969xopr8)
 
 ---
 
