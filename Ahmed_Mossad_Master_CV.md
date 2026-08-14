@@ -337,6 +337,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 16. Natural Language Processing: Advanced Word Embedding Models Classification
 **Date:** 05/2025 | **Language:** Python
 **Libraries:** pandas, numpy, nltk, tensorflow/keras, tensorflow_hub, gensim, scikit-learn, matplotlib, seaborn
+**GitHub:** [Word-Embedding-Models-Classification](https://github.com/ahmedm0ssad/Word-Embedding-Models-Classification)
 
 - Engineered complete text preprocessing pipeline including tokenization, stopword removal, and sequence padding.
 - Implemented and compared CBOW, Skip-gram, GloVe, and ELMo embedding methods for poem genre classification using biLSTM.
