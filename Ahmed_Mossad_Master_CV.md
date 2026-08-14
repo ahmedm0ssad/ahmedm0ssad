@@ -150,6 +150,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 2. Local RAG-Powered Document Assistant (Jarvis)
 **Date:** 2025 | **Language:** Python
 **Libraries:** torch, transformers, sentence_transformers, chromadb, streamlit, tree-sitter, llama_index / LlamaIndex
+**GitHub:** [Jarvis](https://github.com/ahmedm0ssad/Jarvis)
 
 - Designed multi-format document processing system with specialized extraction for different file types.
 - Implemented semantic code analysis with structural parsing capabilities for multiple programming languages.
