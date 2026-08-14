@@ -323,6 +323,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 15. DSAI 456 Speech Recognition — Course Project Series
 **Date:** 2024–2025 (6 Assignments) | ZC-UST
 **Stack:** Python, PyTorch, librosa, NumPy, SciPy, Matplotlib, Seaborn, hmmlearn, pytest, GitHub Actions, TIMIT, VCTK, MFCC, Mel spectrograms, FFT/STFT, LPC, GMM, EM algorithm, HMM, CTC loss, Bidirectional LSTM, Viterbi algorithm, Forward algorithm, beam search, black, flake8, mypy
+**GitHub:** [Speech-Recognition-Course](https://github.com/ahmedm0ssad/Speech-Recognition-Course)
 
 **Assignment 1:** RMS/pitch analysis package with CI/CD (GitHub Actions).
 **Assignment 2:** FFT/STFT spectrogram pipeline; frequency-domain analysis.
