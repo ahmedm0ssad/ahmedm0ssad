@@ -306,7 +306,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 14. MLOps Development Pipeline — Iris Classification
 **Language:** Python 3.10
 **Stack:** scikit-learn, pandas, matplotlib, MLflow, DVC, DagsHub, GitHub Actions, Docker, Docker Compose, Miniconda/Conda, flake8
-**GitHub:** [MLOps-Devlopment](https://github.com/ahmedm0ssad/MLOps-Devlopment)
+**GitHub:** [End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
 
 - Full MLOps pipeline with DVC-tracked data on DagsHub, MLflow experiment tracking.
 - 4-job GitHub Actions CI/CD with triple gating: [run-train] keyword, linter pass, and main branch check.
