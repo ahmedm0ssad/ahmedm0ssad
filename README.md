@@ -49,3 +49,7 @@ I build production-grade AI applications and the backend systems behind them —
 
 - [LinkedIn](https://linkedin.com/in/ahmed-mossad-4528202b2)
 - [Email](mailto:ahmed.abdelfattah.mossad@gmail.com)
+
+## CV
+
+- [Master CV](Ahmed_Mossad_Master_CV.md)
