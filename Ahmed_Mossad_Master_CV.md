@@ -349,6 +349,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 17. Information Retrieval System Development
 **Date:** May 2024 | **Language:** Python (PyTerrier)
+**GitHub:** [Information-Retrieval-System](https://github.com/ahmedm0ssad/Information-Retrieval-System)
 
 - Built an Information Retrieval system using Python and PyTerrier to preprocess, index, and retrieve documents from a large dataset.
 - Implemented query expansion techniques (e.g., RM3) to improve retrieval accuracy.
