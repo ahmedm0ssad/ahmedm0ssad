@@ -382,6 +382,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 19. Nature-Inspired Optimization Library (DSAI 403)
 **Tech Stack:** Python, NumPy, Pandas, scikit-learn, TF-IDF, RandomForestClassifier, PyTorch, TorchVision, Matplotlib, SciPy, Jupyter, kagglehub
+**GitHub:** [Nature-Inspired-Optimization-Library](https://github.com/ahmedm0ssad/Nature-Inspired-Optimization-Library)
 
 - Python library implementing 7 metaheuristics from scratch: Hill Climbing, Simulated Annealing, Tabu Search, Bat Algorithm, Cuckoo Search (with Lévy flights), Particle Swarm Optimization (PSO), and Grey Wolf Optimizer (GWO).
 - Applied to IMDB sentiment analysis (50K reviews, TF-IDF, RandomForest): accuracy range 85.4%–86.8%.
