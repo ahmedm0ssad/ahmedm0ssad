@@ -499,6 +499,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** January 2025 | **Language:** Python
 **Libraries:** TensorFlow, Keras, NumPy, Matplotlib, h5py, Pandas, scikit-learn
 **Tooling:** Kaggle (NVIDIA Tesla T4 GPU), Jupyter
+**GitHub:** [Galaxy-Morphology-Classification](https://github.com/ahmedm0ssad/Galaxy-Morphology-Classification)
 
 - Transfer learning with ResNet50V2 and ResNet101V2 on the Galaxy10_DECals dataset.
 - GPU-accelerated training with hyperparameter tuning for galaxy morphology type identification.
