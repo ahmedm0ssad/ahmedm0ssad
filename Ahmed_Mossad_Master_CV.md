@@ -441,6 +441,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 23. Image Enhancement Project for Computer Vision
 **Date:** April 2025 | **Language:** Python
 **Libraries:** OpenCV, NumPy, scikit-image, matplotlib, SciPy
+**GitHub:** [Image-Processing-Toolkit](https://github.com/ahmedm0ssad/Image-Processing-Toolkit)
 
 - Implemented robust component extraction algorithms capable of identifying and separating overlapping objects using adaptive thresholding and morphological operations.
 - Developed a blurriness correction system comparing multiple sharpening techniques (Unsharp Masking, Laplacian, Wiener Deconvolution) with application-specific parameter tuning.
