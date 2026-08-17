@@ -213,6 +213,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** 2024–2025 | **Languages:** Java + Python
 **Stack:** Apache Hadoop 3.3.6, HDFS, YARN, MapReduce, Maven, Docker, Docker Compose, Python, pandas, matplotlib, NumPy, Bash
 **Role:** Full Java MapReduce, Distributed Cache, Bash scripts, Docker multi-node, Python benchmarking (pair project with Habiba Arafa)
+**GitHub:** [Digital-Librarian](https://github.com/ahmedm0ssad/Digital-Librarian)
 
 - Distributed inverted-index system on Hadoop. Four MapReduce classes: Mapper, Combiner, Reducer, Driver.
 - Dataset: 10 Project Gutenberg books (~6MB, ~117K lines).
