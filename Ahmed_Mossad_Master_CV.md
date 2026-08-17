@@ -510,6 +510,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 29. Time Series Prediction with Deep Learning Models
 **Date:** Fall 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, keras-tcn
+**GitHub:** [Time-Series-Prediction-DL](https://github.com/ahmedm0ssad/Time-Series-Prediction-DL)
 
 - Designed a custom data generator to create complex waveforms with configurable noise levels.
 - Engineered a sliding window approach for sequence prediction (50 timesteps in, 1 timestep out).
