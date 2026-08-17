@@ -397,6 +397,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 20. DSAI 402 Reinforcement Learning — Assignment Series
 **Date:** Fall 2025 (4th Year, 6 Assignments)
 **Tech Stack:** Python, NumPy, Matplotlib, Seaborn, Gymnasium, ALE-py, OpenCV, Pandas, Jupyter, tqdm
+**GitHub:** [Reinforcement-Learning-Course](https://github.com/ahmedm0ssad/Reinforcement-Learning-Course)
 **All algorithms implemented from scratch in pure Python/NumPy.**
 
 **Assignment 1:** Gridworld value functions — Monte Carlo estimation + iterative Bellman equations.
