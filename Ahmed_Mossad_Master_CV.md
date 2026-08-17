@@ -410,6 +410,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 21. 3D Drone Navigation System with Reinforcement Learning
 **Date:** January 2025 | **Language:** Python
 **Libraries:** NumPy, Matplotlib, mpl_toolkits, Tabulate, Statistics, Logging
+**GitHub:** [3D-Drone-Navigation](https://github.com/ahmedm0ssad/3D-Drone-Navigation)
 
 - 3D urban drone navigation simulation.
 - Implemented Hill Climbing, Simulated Annealing, and Genetic Algorithms for pathfinding.
