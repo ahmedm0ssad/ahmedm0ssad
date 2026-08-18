@@ -620,6 +620,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 **Tooling:** Jupyter, Google Colab, Kaggle
+**GitHub:** [Health-Data-Prediction-ML](https://github.com/ahmedm0ssad/Health-Data-Prediction-ML)
 
 - Implemented and compared KNN, SVM, Logistic Regression, Linear Regression, and Neural Networks on a health dataset.
 
