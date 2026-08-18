@@ -597,6 +597,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 36. Statistical Inference for Diabetes Dataset Analysis
 **Date:** January 2025 | **Language:** R
 **Libraries:** ggplot2, data.table, corrplot, dplyr
+**GitHub:** [Statistical-Inference-Diabetes](https://github.com/ahmedm0ssad/Statistical-Inference-Diabetes)
 
 - Statistical inference, correlation analysis, and comprehensive data visualization on a diabetes dataset.
 
