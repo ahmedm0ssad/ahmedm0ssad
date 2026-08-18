@@ -527,6 +527,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** 2023 | **Language:** Python
 **Libraries:** Keras, TensorFlow, NumPy, OpenCV, scikit-learn, Matplotlib, kagglehub
 **Dataset:** Oxford-IIIT Pet Dataset
+**GitHub:** [Pet-Image-Denoising-Autoencoder](https://github.com/ahmedm0ssad/Pet-Image-Denoising-Autoencoder)
 
 - Engineered a complete image processing workflow including resizing, normalization, and noise introduction.
 - Implemented a Convolutional Denoising Autoencoder (CDAE) architecture with convolutional, pooling, and upsampling layers.
