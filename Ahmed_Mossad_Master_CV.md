@@ -15,6 +15,7 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 
 ### Backend AI Engineering Intern — FlyRank (ZC-UST)
 **Jul 2026 – Present | Chicago, IL, USA · Remote · Backend AI Track**
+ 
 **GitHub:**
 [flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)
 
@@ -137,6 +138,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 1. Explainable AI (XAI) for Credit Risk Assessment
 **Date:** 2025 | **Language:** Python
 **Libraries:** pandas, numpy, scikit-learn, tensorflow/keras, xgboost, lightgbm, shap, lime, matplotlib, seaborn
+ 
 **GitHub:**
 [XAI-Credit-Risk-Assessment](https://github.com/ahmedm0ssad/XAI-Credit-Risk-Assessment)
 
@@ -153,6 +155,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 2. Local RAG-Powered Document Assistant
 **Date:** 2025 | **Language:** Python
 **Libraries:** torch, transformers, sentence_transformers, chromadb, streamlit, tree-sitter, llama_index / LlamaIndex
+ 
 **GitHub:**
 [Local-RAG-Document-Assistant](https://github.com/ahmedm0ssad/Local-RAG-Document-Assistant)
 
@@ -169,6 +172,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 3. arXiv RAG Web Application
 **Date:** 2024 | **Language:** Python
 **Libraries:** Flask, FAISS, Sentence-Transformers, Google Generative AI (Gemini), PyTorch, pandas, numpy, tqdm
+ 
 **GitHub:**
 [Arxiv-RAG-Webapp](https://github.com/ahmedm0ssad/Arxiv-RAG-Webapp)
 
@@ -184,6 +188,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 4. RAG System with ML Intelligence (CSAI 302 — Advanced Database)
 **Date:** 2024–2025 | **Language:** Python
 **Stack:** Sentence Transformers (all-MiniLM-L6-v2), ChromaDB, Google Gemini API, XGBoost, scikit-learn, Streamlit, Plotly, Pydantic, Loguru, JSONL feedback system
+ 
 **GitHub:**
 [RAG-Optimization-System](https://github.com/ahmedm0ssad/RAG-Optimization-System)
 
@@ -197,6 +202,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 5. LLM Benchmarking and Optimization Framework
 **Date:** 04/2025 | **Language:** Python
 **Libraries:** PyTorch, HuggingFace Transformers, CUDA, pandas, matplotlib, seaborn, datasets, tqdm
+ 
 **GitHub:**
 [LLM-Optimization](https://github.com/ahmedm0ssad/LLM-Optimization)
 
@@ -219,6 +225,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** 2024–2025 | **Languages:** Java + Python
 **Stack:** Apache Hadoop 3.3.6, HDFS, YARN, MapReduce, Maven, Docker, Docker Compose, Python, pandas, matplotlib, NumPy, Bash
 **Role:** Full Java MapReduce, Distributed Cache, Bash scripts, Docker multi-node, Python benchmarking (pair project with Habiba Arafa)
+ 
 **GitHub:**
 [Digital-Librarian](https://github.com/ahmedm0ssad/Digital-Librarian)
 
@@ -234,6 +241,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 7. NYC Taxi Trip Duration & Telco Churn Analysis (DSAI 427)
 **Date:** 2024–2025 | **Language:** Python (PySpark)
 **Stack:** Apache Spark 3.5.8, PySpark, Spark SQL, Spark MLlib, Parquet, pandas, NumPy, Kaggle
+ 
 **GitHub:**
 [NYC-Taxi-Spark-Analysis](https://github.com/ahmedm0ssad/NYC-Taxi-Spark-Analysis)
 
@@ -247,6 +255,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 8. Real-Time Movie Recommendation System (Big Data Capstone)
 **Language:** Python
 **Stack:** Apache Kafka 3.5.0, Spark Structured Streaming 3.5.0, PySpark MLlib (ALS), Streamlit, Plotly, Pandas, NumPy, PyArrow, Parquet, WSL Ubuntu
+ 
 **GitHub:**
 [Real-Time-Recommendation-System](https://github.com/ahmedm0ssad/Real-Time-Recommendation-System)
 
@@ -271,6 +280,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 10. Fanni-3lbab: Artisan Service Platform
 **Date:** January 2025 | **Languages:** JavaScript, TypeScript, Python, SQL
 **Stack:** React, Next.js, Tailwind CSS, Flask, SQLAlchemy, Pydantic, Alembic, MySQL, Node.js, Uvicorn, Google OAuth
+ 
 **GitHub:**
 [Fanni-3lbab](https://github.com/ahmedm0ssad/Fanni-3lbab)
 
@@ -282,6 +292,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 11. Education Management System
 **Date:** January 2024 | **Languages:** HTML/CSS/JavaScript, C# (ASP.NET Core)
+ 
 **GitHub:**
 [Education-Management-System](https://github.com/ahmedm0ssad/Education-Management-System)
 
@@ -295,6 +306,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 12. Data Visualization and Analysis Web Application
 **Date:** January 2024 | **Language:** Python
 **Stack:** Flask, Pandas, SQLAlchemy, SQLite
+ 
 **GitHub:**
 [Data-Visualization-Web-App](https://github.com/ahmedm0ssad/Data-Visualization-Web-App)
 
@@ -312,6 +324,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 13. End-to-End MLOps Pipeline (Advanced / Standalone)
 **Date:** 2026 | **Language:** Python
 **Stack:** MLflow, Docker, GitHub Actions, DVC, Conda
+ 
 **GitHub:**
 [End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
 
@@ -324,6 +337,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 14. MLOps Development Pipeline — Iris Classification
 **Language:** Python 3.10
 **Stack:** scikit-learn, pandas, matplotlib, MLflow, DVC, DagsHub, GitHub Actions, Docker, Docker Compose, Miniconda/Conda, flake8
+ 
 **GitHub:**
 [End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
 
@@ -341,6 +355,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 15. DSAI 456 Speech Recognition — Course Project Series
 **Date:** 2024–2025 (6 Assignments) | ZC-UST
 **Stack:** Python, PyTorch, librosa, NumPy, SciPy, Matplotlib, Seaborn, hmmlearn, pytest, GitHub Actions, TIMIT, VCTK, MFCC, Mel spectrograms, FFT/STFT, LPC, GMM, EM algorithm, HMM, CTC loss, Bidirectional LSTM, Viterbi algorithm, Forward algorithm, beam search, black, flake8, mypy
+ 
 **GitHub:**
 [Speech-Recognition-Pipeline](https://github.com/ahmedm0ssad/Speech-Recognition-Pipeline)
 
@@ -356,6 +371,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 16. Natural Language Processing: Advanced Word Embedding Models Classification
 **Date:** 05/2025 | **Language:** Python
 **Libraries:** pandas, numpy, nltk, tensorflow/keras, tensorflow_hub, gensim, scikit-learn, matplotlib, seaborn
+ 
 **GitHub:**
 [Word-Embedding-Models-Classification](https://github.com/ahmedm0ssad/Word-Embedding-Models-Classification)
 
@@ -369,6 +385,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 17. Information Retrieval System Development
 **Date:** May 2024 | **Language:** Python (PyTerrier)
+ 
 **GitHub:**
 [Information-Retrieval-System](https://github.com/ahmedm0ssad/Information-Retrieval-System)
 
@@ -389,6 +406,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Metaheuristics:** ACO, PSO, GWO, WOA, Firefly, Cuckoo Search, Bat Algorithm, Simulated Annealing, Tabu Search, Hill Climbing
 **Model:** Dual-input Conv1D CNN
 **Dataset:** Sentiment140 (Twitter), 15K samples
+ 
 **GitHub:**
 [Nature-Inspired-Computation](https://github.com/ahmedm0ssad/Nature-Inspired-Computation)
 
@@ -403,6 +421,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 19. Nature-Inspired Optimization Library (DSAI 403)
 **Tech Stack:** Python, NumPy, Pandas, scikit-learn, TF-IDF, RandomForestClassifier, PyTorch, TorchVision, Matplotlib, SciPy, Jupyter, kagglehub
+ 
 **GitHub:**
 [Nature-Inspired-Optimization-Library](https://github.com/ahmedm0ssad/Nature-Inspired-Optimization-Library)
 
@@ -420,6 +439,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 20. DSAI 402 Reinforcement Learning — Assignment Series
 **Date:** Fall 2025 (4th Year, 6 Assignments)
 **Tech Stack:** Python, NumPy, Matplotlib, Seaborn, Gymnasium, ALE-py, OpenCV, Pandas, Jupyter, tqdm
+ 
 **GitHub:**
 [RL-Algorithms-From-Scratch](https://github.com/ahmedm0ssad/RL-Algorithms-From-Scratch)
 **All algorithms implemented from scratch in pure Python/NumPy.**
@@ -436,6 +456,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 21. 3D Drone Navigation System with Reinforcement Learning
 **Date:** January 2025 | **Language:** Python
 **Libraries:** NumPy, Matplotlib, mpl_toolkits, Tabulate, Statistics, Logging
+ 
 **GitHub:**
 [3D-Drone-Navigation](https://github.com/ahmedm0ssad/3D-Drone-Navigation)
 
@@ -452,6 +473,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 22. Person Tracking and Path Visualization System
 **Date:** April 2025 | **Language:** Python
 **Libraries:** ultralytics, opencv-python, numpy, scipy, sort, filterpy
+ 
 **GitHub:**
 [YOLO-SORT-Person-Tracker](https://github.com/ahmedm0ssad/YOLO-SORT-Person-Tracker)
 
@@ -467,6 +489,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 23. Image Enhancement Project for Computer Vision
 **Date:** April 2025 | **Language:** Python
 **Libraries:** OpenCV, NumPy, scikit-image, matplotlib, SciPy
+ 
 **GitHub:**
 [Image-Processing-Toolkit](https://github.com/ahmedm0ssad/Image-Processing-Toolkit)
 
@@ -481,6 +504,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 24. YOLO Object Detection and Tracking Comparison (v10 vs v11 vs v12)
 **Date:** 2023–2024 | **Language:** Python
 **Libraries:** ultralytics, opencv-python, pandas, numpy, matplotlib, seaborn, time
+ 
 **GitHub:**
 [YOLO-Model-Comparison](https://github.com/ahmedm0ssad/YOLO-Model-Comparison)
 
@@ -493,6 +517,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 25. Content-Based Image Retrieval with SIFT Features
 **Language:** Python
 **Libraries:** OpenCV (SIFT), NumPy, scikit-learn (K-means, TF-IDF), Matplotlib, tqdm
+ 
 **GitHub:**
 [SIFT-Texture-Image-Retrieval](https://github.com/ahmedm0ssad/SIFT-Texture-Image-Retrieval)
 
@@ -507,6 +532,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 26. Fourier Transform-Based Image Processing and Filtering
 **Date:** May 2025 | **Language:** Python
 **Libraries:** cv2, numpy, matplotlib, urllib
+ 
 **GitHub:**
 [Fourier-Transform-Image-Processing](https://github.com/ahmedm0ssad/Fourier-Transform-Image-Processing)
 
@@ -519,6 +545,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 27. Computer Vision: Spatial Domain Image Processing
 **Date:** Spring 2023 (3rd Year, Semester 2) | **Language:** Python
 **Libraries:** OpenCV (cv2), NumPy, Matplotlib
+ 
 **GitHub:**
 [Spatial-Domain-Image-Processing](https://github.com/ahmedm0ssad/Spatial-Domain-Image-Processing)
 
@@ -531,6 +558,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** January 2025 | **Language:** Python
 **Libraries:** TensorFlow, Keras, NumPy, Matplotlib, h5py, Pandas, scikit-learn
 **Tooling:** Kaggle (NVIDIA Tesla T4 GPU), Jupyter
+ 
 **GitHub:**
 [Galaxy-Morphology-Classification](https://github.com/ahmedm0ssad/Galaxy-Morphology-Classification)
 
@@ -542,6 +570,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 29. Time Series Prediction with Deep Learning Models
 **Date:** Fall 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, keras-tcn
+ 
 **GitHub:**
 [Time-Series-Prediction-DL](https://github.com/ahmedm0ssad/Time-Series-Prediction-DL)
 
@@ -559,6 +588,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** 2023 | **Language:** Python
 **Libraries:** Keras, TensorFlow, NumPy, OpenCV, scikit-learn, Matplotlib, kagglehub
 **Dataset:** Oxford-IIIT Pet Dataset
+ 
 **GitHub:**
 [Pet-Image-Denoising-Autoencoder](https://github.com/ahmedm0ssad/Pet-Image-Denoising-Autoencoder)
 
@@ -573,6 +603,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn
 **Dataset:** Fashion-MNIST
+ 
 **GitHub:**
 [Siamese-Fashion-Similarity](https://github.com/ahmedm0ssad/Siamese-Fashion-Similarity)
 
@@ -585,6 +616,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 32. Facial Recognition System with Deep Learning Transfer Learning
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, KaggleHub
+ 
 **GitHub:**
 [Facial-Recognition-Transfer-Learning](https://github.com/ahmedm0ssad/Facial-Recognition-Transfer-Learning)
 
@@ -596,6 +628,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 33. Flower Classification using Convolutional Neural Networks
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, PIL, ImageDataGenerator
+ 
 **GitHub:**
 [Flower-Classification-CNN](https://github.com/ahmedm0ssad/Flower-Classification-CNN)
 
@@ -608,6 +641,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 34. Representation Learning with Autoencoders (DSAI 490 — Assignment 1)
 **Tech Stack:** Python 3.10, TensorFlow 2.15, Keras, tf.data, NumPy, scikit-learn, Matplotlib, Pillow, pandas, tqdm, tensorflow-probability, pytest, Conda, Kaggle GPU
 **Dataset:** Medical MNIST (~58K images, 6 modalities)
+ 
 **GitHub:**
 [AutoEncoder-VariationalAutoEncoder](https://github.com/ahmedm0ssad/AutoEncoder-VariationalAutoEncoder)
 
@@ -621,6 +655,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Tech Stack:** Python 3.10, PyTorch 2.5.1, CUDA 11.8, Kaggle GPU
 **Architectures:** WGAN-GP, Conditional VAE (CVAE), Discrete Diffusion, Transformer Seq2Seq
 **Techniques:** Gumbel-Softmax, spectral normalization, AdamW, NumPy, Matplotlib, scikit-learn
+ 
 **GitHub:**
 [Generative-Date-Synthesis](https://github.com/ahmedm0ssad/Generative-Date-Synthesis)
 
@@ -637,6 +672,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 36. Statistical Inference for Diabetes Dataset Analysis
 **Date:** January 2025 | **Language:** R
 **Libraries:** ggplot2, data.table, corrplot, dplyr
+ 
 **GitHub:**
 [Statistical-Inference-Diabetes](https://github.com/ahmedm0ssad/Statistical-Inference-Diabetes)
 
@@ -647,6 +683,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 37. Central Limit Theorem Simulation and Analysis
 **Date:** 2025 | **Languages:** R and Python (parallel implementations)
 **Libraries (R):** ggplot2, gridExtra | **Libraries (Python):** numpy, matplotlib, seaborn
+ 
 **GitHub:**
 [Central-Limit-Theorem-Demo](https://github.com/ahmedm0ssad/Central-Limit-Theorem-Demo)
 
@@ -662,6 +699,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 **Tooling:** Jupyter, Google Colab, Kaggle
+ 
 **GitHub:**
 [Health-Data-Prediction-ML](https://github.com/ahmedm0ssad/Health-Data-Prediction-ML)
 
@@ -672,6 +710,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 39. Titanic Survival Prediction with Naive Bayes Classifier
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** pandas, numpy, scikit-learn (GaussianNB), StandardScaler, confusion_matrix
+ 
 **GitHub:**
 [Titanic-Naive-Bayes](https://github.com/ahmedm0ssad/Titanic-Naive-Bayes)
 
@@ -687,6 +726,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 40. Neural Network from Scratch — Logistic Regression for Heart Disease
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** numpy, pandas, sklearn
+ 
 **GitHub:**
 [Neural-Network-From-Scratch](https://github.com/ahmedm0ssad/Neural-Network-From-Scratch)
 
@@ -698,6 +738,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 41. Support Vector Machine Clustering Analysis
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** scikit-learn, pandas, numpy, matplotlib
+ 
 **GitHub:**
 [SVM-Clustering-Analysis](https://github.com/ahmedm0ssad/SVM-Clustering-Analysis)
 
@@ -709,6 +750,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 42. Linear Regression and Classification from Scratch with Dimensionality Reduction
 **Date:** May 2025 | **Language:** Python
 **Libraries:** numpy, pandas, matplotlib, seaborn, scikit-learn
+ 
 **GitHub:**
 [Linear-Regression-From-Scratch](https://github.com/ahmedm0ssad/Linear-Regression-From-Scratch)
 
@@ -722,6 +764,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 43. K-Nearest Neighbors (KNN) from Scratch for Iris Dataset
 **Date:** Spring 2025 | **Language:** Python
 **Libraries:** numpy, pandas, matplotlib, scikit-learn, collections.Counter
+ 
 **GitHub:**
 [KNN-From-Scratch](https://github.com/ahmedm0ssad/KNN-From-Scratch)
 
@@ -733,6 +776,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 44. Adam Optimization Algorithm Implementation
 **Date:** January 2025 | **Language:** Python
+ 
 **GitHub:**
 [Adam-Optimization-Implementation](https://github.com/ahmedm0ssad/Adam-Optimization-Implementation)
 
@@ -744,6 +788,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 45. 1D and Multidimensional Optimization Algorithms
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize, warnings, time
+ 
 **GitHub:**
 [Optimization-Algorithms](https://github.com/ahmedm0ssad/Optimization-Algorithms)
 
@@ -764,6 +809,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 47. Revised Simplex Method Implementation
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize.linprog, dataclasses, typing
+ 
 **GitHub:**
 [Revised-Simplex-Method](https://github.com/ahmedm0ssad/Revised-Simplex-Method)
 
@@ -776,6 +822,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 48. Fuel Consumption Analysis
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+ 
 **GitHub:**
 [Fuel-Consumption-Analysis](https://github.com/ahmedm0ssad/Fuel-Consumption-Analysis)
 
@@ -791,6 +838,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 49. Adaptive Huffman Coding Algorithm Implementation
 **Language:** Java
+ 
 **GitHub:**
 [Adaptive-Huffman-Coding](https://github.com/ahmedm0ssad/Adaptive-Huffman-Coding)
 
@@ -803,6 +851,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 50. Color Vector Quantization Image Compression System
 **Date:** April 2025 | **Language:** Java
 **Libraries:** java.util.concurrent, java.io, java.util.logging, java.awt.image
+ 
 **GitHub:**
 [Color-Vector-Quantization](https://github.com/ahmedm0ssad/Color-Vector-Quantization)
 
@@ -815,6 +864,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 51. Vector Quantization Image Compression System
 **Date:** 2023 | **Language:** Java
 **Libraries:** java.awt, javax.imageio, java.io
+ 
 **GitHub:**
 [Vector-Quantization-Compression](https://github.com/ahmedm0ssad/Vector-Quantization-Compression)
 
@@ -826,6 +876,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 52. 2-D Feed Backward Predictive Coding for Image Compression
 **Date:** April 2025 | **Language:** Java
+ 
 **GitHub:**
 [Predictive-Coding-Compression](https://github.com/ahmedm0ssad/Predictive-Coding-Compression)
 
@@ -839,6 +890,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 53. LZ78 Compression Algorithm Implementation
 **Language:** Java
 **Libraries:** java.io, java.util
+ 
 **GitHub:**
 [LZ78-Compression](https://github.com/ahmedm0ssad/LZ78-Compression)
 
@@ -850,6 +902,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 54. LZ77 Compression Algorithm Implementation
 **Languages:** Java and Python
 **Libraries (Java):** java.io, java.nio, java.util.regex | **Libraries (Python):** re, os
+ 
 **GitHub:**
 [LZ77-Compression](https://github.com/ahmedm0ssad/LZ77-Compression)
 
@@ -862,6 +915,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 55. Huffman Coding Data Compression System
 **Date:** 2024–2025 | **Language:** Java
 **Libraries:** java.io, java.util (PriorityQueue, HashMap), java.nio.file, BitSet
+ 
 **GitHub:**
 [Huffman-Compression](https://github.com/ahmedm0ssad/Huffman-Compression)
 
@@ -878,6 +932,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 56. Network File Transfer and Communication System
 **Date:** May 2024 | **Language:** Python
 **Libraries:** socket, struct, time, matplotlib, select
+ 
 **GitHub:**
 [Network-File-Transfer-System](https://github.com/ahmedm0ssad/Network-File-Transfer-System)
 
@@ -894,6 +949,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 58. YouTube Video Search and Analysis
 **Date:** January 2024 | **Language:** Python
 **Libraries:** serpapi, requests, BeautifulSoup (bs4), html5lib
+ 
 **GitHub:**
 [YouTube-Video-Search-Analysis](https://github.com/ahmedm0ssad/YouTube-Video-Search-Analysis)
 
@@ -905,6 +961,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 59. Image Featuring & Labeling
 **Date:** January 2024 | **Language:** Python
 **Libraries:** requests, beautifulsoup4, google-search-results, opencv-python, numpy, matplotlib, dlib
+ 
 **GitHub:**
 [Image-Featuring-Labeling](https://github.com/ahmedm0ssad/Image-Featuring-Labeling)
 
