@@ -298,6 +298,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 13. End-to-End MLOps Pipeline (Advanced / Standalone)
 **Date:** 2026 | **Language:** Python
 **Stack:** MLflow, Docker, GitHub Actions, DVC, Conda
+**GitHub:** [End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
 
 - Built a multi-stage CI/CD pipeline: DVC data pull → MLflow experiment tracking → threshold-based quality gate → automated Docker build triggered only when accuracy ≥ 0.85.
 - Implemented reproducible Conda + Docker environments; GitHub Actions workflow with artifact handoff between validation and deployment jobs.
@@ -572,6 +573,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 34. Representation Learning with Autoencoders (DSAI 490 — Assignment 1)
 **Tech Stack:** Python 3.10, TensorFlow 2.15, Keras, tf.data, NumPy, scikit-learn, Matplotlib, Pillow, pandas, tqdm, tensorflow-probability, pytest, Conda, Kaggle GPU
 **Dataset:** Medical MNIST (~58K images, 6 modalities)
+**GitHub:** [AutoEncoder-VariationalAutoEncoder](https://github.com/ahmedm0ssad/AutoEncoder-VariationalAutoEncoder)
 
 - Implemented three autoencoder architectures: BasicAE (val MSE: 0.00838), DenoisingAE (val MSE: 0.00183, best), CVAE (posterior collapse diagnosed after epoch 2).
 - t-SNE and PCA analysis of latent space representations.
@@ -583,6 +585,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Tech Stack:** Python 3.10, PyTorch 2.5.1, CUDA 11.8, Kaggle GPU
 **Architectures:** WGAN-GP, Conditional VAE (CVAE), Discrete Diffusion, Transformer Seq2Seq
 **Techniques:** Gumbel-Softmax, spectral normalization, AdamW, NumPy, Matplotlib, scikit-learn
+**GitHub:** [Generative-Date-Synthesis](https://github.com/ahmedm0ssad/Generative-Date-Synthesis)
 
 - Four generative architectures for calendar date synthesis conditioned on day-of-week, month, leap-year, and decade.
 - WGAN-GP: best overall (47.58% Condition Pass Rate, 100% month accuracy, 75.63% leap-year accuracy).
@@ -793,6 +796,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 54. LZ77 Compression Algorithm Implementation
 **Languages:** Java and Python
 **Libraries (Java):** java.io, java.nio, java.util.regex | **Libraries (Python):** re, os
+**GitHub:** [LZ77-Compression](https://github.com/ahmedm0ssad/LZ77-Compression)
 
 - LZ77 with 4096-byte sliding window in both Java and Python.
 - Tuple-based encoding (offset, length, next_char).
@@ -803,6 +807,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 55. Huffman Coding Data Compression System
 **Date:** 2024–2025 | **Language:** Java
 **Libraries:** java.io, java.util (PriorityQueue, HashMap), java.nio.file, BitSet
+**GitHub:** [Huffman-Compression](https://github.com/ahmedm0ssad/Huffman-Compression)
 
 - Complete Huffman implementation with entropy analysis.
 - Code table persistence for reuse.
