@@ -490,6 +490,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 27. Computer Vision: Spatial Domain Image Processing
 **Date:** Spring 2023 (3rd Year, Semester 2) | **Language:** Python
 **Libraries:** OpenCV (cv2), NumPy, Matplotlib
+**GitHub:** [Spatial-Domain-Image-Processing](https://github.com/ahmedm0ssad/Spatial-Domain-Image-Processing)
 
 - Implemented complete suite: brightness adjustment, contrast enhancement, histogram equalization, median filtering, sharpening filters, and edge enhancement.
 - All implementations include both OpenCV built-ins and custom NumPy equivalents, showing "under the hood" behavior.
