@@ -675,6 +675,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 43. K-Nearest Neighbors (KNN) from Scratch for Iris Dataset
 **Date:** Spring 2025 | **Language:** Python
 **Libraries:** numpy, pandas, matplotlib, scikit-learn, collections.Counter
+**GitHub:** [KNN-From-Scratch](https://github.com/ahmedm0ssad/KNN-From-Scratch)
 
 - Custom KNN implementation with Euclidean distance and majority voting.
 - Compared K=3, K=5, K=7.
