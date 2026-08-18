@@ -629,6 +629,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 39. Titanic Survival Prediction with Naive Bayes Classifier
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** pandas, numpy, scikit-learn (GaussianNB), StandardScaler, confusion_matrix
+**GitHub:** [Titanic-Naive-Bayes](https://github.com/ahmedm0ssad/Titanic-Naive-Bayes)
 
 - Engineered meaningful features from raw passenger data: family size, title extraction.
 - Implemented systematic data preprocessing workflow to handle missing values.
