@@ -663,6 +663,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 42. Linear Regression and Classification from Scratch with Dimensionality Reduction
 **Date:** May 2025 | **Language:** Python
 **Libraries:** numpy, pandas, matplotlib, seaborn, scikit-learn
+**GitHub:** [Linear-Regression-From-Scratch](https://github.com/ahmedm0ssad/Linear-Regression-From-Scratch)
 
 - Implemented Normal Equation linear regression.
 - Binary classification on Iris dataset.
