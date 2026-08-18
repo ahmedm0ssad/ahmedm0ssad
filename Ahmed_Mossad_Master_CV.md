@@ -725,6 +725,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 48. Fuel Consumption Analysis
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+**GitHub:** [Fuel-Consumption-Analysis](https://github.com/ahmedm0ssad/Fuel-Consumption-Analysis)
 
 - Conducted data cleaning, validation, and analysis on vehicle fuel consumption datasets to evaluate fuel efficiency and greenhouse gas emissions.
 - Leveraged Python libraries (Pandas, NumPy) to process and analyze large datasets, identifying trends and actionable insights.
