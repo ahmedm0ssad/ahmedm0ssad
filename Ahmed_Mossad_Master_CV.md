@@ -643,6 +643,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 40. Neural Network from Scratch — Logistic Regression for Heart Disease
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** numpy, pandas, sklearn
+**GitHub:** [Neural-Network-From-Scratch](https://github.com/ahmedm0ssad/Neural-Network-From-Scratch)
 
 - Implemented logistic regression from scratch: sigmoid activation, binary cross-entropy loss, gradient descent.
 - Results: 85.2% accuracy, 87.1% precision, 84.4% recall, 85.7% F1 score.
