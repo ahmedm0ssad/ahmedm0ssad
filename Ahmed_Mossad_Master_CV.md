@@ -844,6 +844,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 58. YouTube Video Search and Analysis
 **Date:** January 2024 | **Language:** Python
 **Libraries:** serpapi, requests, BeautifulSoup (bs4), html5lib
+**GitHub:** [YouTube-Video-Search-Analysis](https://github.com/ahmedm0ssad/YouTube-Video-Search-Analysis)
 
 - YouTube video search via SerpAPI.
 - Extract video metadata, identify most frequent channels, download thumbnails.
