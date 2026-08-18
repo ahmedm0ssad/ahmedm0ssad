@@ -334,25 +334,11 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 14. MLOps Development Pipeline — Iris Classification
-**Language:** Python 3.10
-**Stack:** scikit-learn, pandas, matplotlib, MLflow, DVC, DagsHub, GitHub Actions, Docker, Docker Compose, Miniconda/Conda, flake8
- 
-**GitHub:**
-[End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
-
-- Full MLOps pipeline with DVC-tracked data on DagsHub, MLflow experiment tracking.
-- 4-job GitHub Actions CI/CD with triple gating: [run-train] keyword, linter pass, and main branch check.
-- Docker deployment to Docker Hub; force-sync merge strategy.
-- Solo project.
-
----
-
 ### E. Natural Language Processing / Speech Recognition
 
 ---
 
-#### 15. DSAI 456 Speech Recognition — Course Project Series
+#### 14. DSAI 456 Speech Recognition — Course Project Series
 **Date:** 2024–2025 (6 Assignments) | ZC-UST
 **Stack:** Python, PyTorch, librosa, NumPy, SciPy, Matplotlib, Seaborn, hmmlearn, pytest, GitHub Actions, TIMIT, VCTK, MFCC, Mel spectrograms, FFT/STFT, LPC, GMM, EM algorithm, HMM, CTC loss, Bidirectional LSTM, Viterbi algorithm, Forward algorithm, beam search, black, flake8, mypy
  
@@ -368,7 +354,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 16. Natural Language Processing: Advanced Word Embedding Models Classification
+#### 15. Natural Language Processing: Advanced Word Embedding Models Classification
 **Date:** 05/2025 | **Language:** Python
 **Libraries:** pandas, numpy, nltk, tensorflow/keras, tensorflow_hub, gensim, scikit-learn, matplotlib, seaborn
  
@@ -383,7 +369,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 17. Information Retrieval System Development
+#### 16. Information Retrieval System Development
 **Date:** May 2024 | **Language:** Python (PyTerrier)
  
 **GitHub:**
@@ -401,7 +387,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 18. Nature-Inspired Optimization for Sentiment Analysis (DSAI 403 Capstone)
+#### 17. Nature-Inspired Optimization for Sentiment Analysis (DSAI 403 Capstone)
 **Tech Stack:** Python, TensorFlow 2.x, Keras, scikit-learn, NumPy, pandas, LIME, SHAP, matplotlib, seaborn, Jupyter
 **Metaheuristics:** ACO, PSO, GWO, WOA, Firefly, Cuckoo Search, Bat Algorithm, Simulated Annealing, Tabu Search, Hill Climbing
 **Model:** Dual-input Conv1D CNN
@@ -419,7 +405,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 19. Nature-Inspired Optimization Library (DSAI 403)
+#### 18. Nature-Inspired Optimization Library (DSAI 403)
 **Tech Stack:** Python, NumPy, Pandas, scikit-learn, TF-IDF, RandomForestClassifier, PyTorch, TorchVision, Matplotlib, SciPy, Jupyter, kagglehub
  
 **GitHub:**
@@ -436,7 +422,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 20. DSAI 402 Reinforcement Learning — Assignment Series
+#### 19. DSAI 402 Reinforcement Learning — Assignment Series
 **Date:** Fall 2025 (4th Year, 6 Assignments)
 **Tech Stack:** Python, NumPy, Matplotlib, Seaborn, Gymnasium, ALE-py, OpenCV, Pandas, Jupyter, tqdm
  
@@ -453,7 +439,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 21. 3D Drone Navigation System with Reinforcement Learning
+#### 20. 3D Drone Navigation System with Reinforcement Learning
 **Date:** January 2025 | **Language:** Python
 **Libraries:** NumPy, Matplotlib, mpl_toolkits, Tabulate, Statistics, Logging
  
@@ -470,7 +456,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 22. Person Tracking and Path Visualization System
+#### 21. Person Tracking and Path Visualization System
 **Date:** April 2025 | **Language:** Python
 **Libraries:** ultralytics, opencv-python, numpy, scipy, sort, filterpy
  
@@ -486,7 +472,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 23. Image Enhancement Project for Computer Vision
+#### 22. Image Enhancement Project for Computer Vision
 **Date:** April 2025 | **Language:** Python
 **Libraries:** OpenCV, NumPy, scikit-image, matplotlib, SciPy
  
@@ -501,7 +487,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 24. YOLO Object Detection and Tracking Comparison (v10 vs v11 vs v12)
+#### 23. YOLO Object Detection and Tracking Comparison (v10 vs v11 vs v12)
 **Date:** 2023–2024 | **Language:** Python
 **Libraries:** ultralytics, opencv-python, pandas, numpy, matplotlib, seaborn, time
  
@@ -514,7 +500,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 25. Content-Based Image Retrieval with SIFT Features
+#### 24. Content-Based Image Retrieval with SIFT Features
 **Language:** Python
 **Libraries:** OpenCV (SIFT), NumPy, scikit-learn (K-means, TF-IDF), Matplotlib, tqdm
  
@@ -529,7 +515,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 26. Fourier Transform-Based Image Processing and Filtering
+#### 25. Fourier Transform-Based Image Processing and Filtering
 **Date:** May 2025 | **Language:** Python
 **Libraries:** cv2, numpy, matplotlib, urllib
  
@@ -542,7 +528,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 27. Computer Vision: Spatial Domain Image Processing
+#### 26. Computer Vision: Spatial Domain Image Processing
 **Date:** Spring 2023 (3rd Year, Semester 2) | **Language:** Python
 **Libraries:** OpenCV (cv2), NumPy, Matplotlib
  
@@ -554,7 +540,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 28. Galaxy Morphology Classification System
+#### 27. Galaxy Morphology Classification System
 **Date:** January 2025 | **Language:** Python
 **Libraries:** TensorFlow, Keras, NumPy, Matplotlib, h5py, Pandas, scikit-learn
 **Tooling:** Kaggle (NVIDIA Tesla T4 GPU), Jupyter
@@ -567,7 +553,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 29. Time Series Prediction with Deep Learning Models
+#### 28. Time Series Prediction with Deep Learning Models
 **Date:** Fall 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, keras-tcn
  
@@ -584,7 +570,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 30. Pet Image Denoising with Convolutional Autoencoders
+#### 29. Pet Image Denoising with Convolutional Autoencoders
 **Date:** 2023 | **Language:** Python
 **Libraries:** Keras, TensorFlow, NumPy, OpenCV, scikit-learn, Matplotlib, kagglehub
 **Dataset:** Oxford-IIIT Pet Dataset
@@ -599,7 +585,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 31. Siamese Neural Network for Fashion Image Similarity Detection
+#### 30. Siamese Neural Network for Fashion Image Similarity Detection
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn
 **Dataset:** Fashion-MNIST
@@ -613,7 +599,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 32. Facial Recognition System with Deep Learning Transfer Learning
+#### 31. Facial Recognition System with Deep Learning Transfer Learning
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, KaggleHub
  
@@ -625,7 +611,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 33. Flower Classification using Convolutional Neural Networks
+#### 32. Flower Classification using Convolutional Neural Networks
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, PIL, ImageDataGenerator
  
@@ -638,7 +624,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 34. Representation Learning with Autoencoders (DSAI 490 — Assignment 1)
+#### 33. Representation Learning with Autoencoders (DSAI 490 — Assignment 1)
 **Tech Stack:** Python 3.10, TensorFlow 2.15, Keras, tf.data, NumPy, scikit-learn, Matplotlib, Pillow, pandas, tqdm, tensorflow-probability, pytest, Conda, Kaggle GPU
 **Dataset:** Medical MNIST (~58K images, 6 modalities)
  
@@ -651,7 +637,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 35. Conditional Date Synthesis with Deep Generative Models (DSAI 490 — Assignment 2)
+#### 34. Conditional Date Synthesis with Deep Generative Models (DSAI 490 — Assignment 2)
 **Tech Stack:** Python 3.10, PyTorch 2.5.1, CUDA 11.8, Kaggle GPU
 **Architectures:** WGAN-GP, Conditional VAE (CVAE), Discrete Diffusion, Transformer Seq2Seq
 **Techniques:** Gumbel-Softmax, spectral normalization, AdamW, NumPy, Matplotlib, scikit-learn
@@ -669,7 +655,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 36. Statistical Inference for Diabetes Dataset Analysis
+#### 35. Statistical Inference for Diabetes Dataset Analysis
 **Date:** January 2025 | **Language:** R
 **Libraries:** ggplot2, data.table, corrplot, dplyr
  
@@ -680,7 +666,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 37. Central Limit Theorem Simulation and Analysis
+#### 36. Central Limit Theorem Simulation and Analysis
 **Date:** 2025 | **Languages:** R and Python (parallel implementations)
 **Libraries (R):** ggplot2, gridExtra | **Libraries (Python):** numpy, matplotlib, seaborn
  
@@ -695,7 +681,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 38. Health Data Analysis and Prediction Using Machine Learning Models
+#### 37. Health Data Analysis and Prediction Using Machine Learning Models
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 **Tooling:** Jupyter, Google Colab, Kaggle
@@ -707,7 +693,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 39. Titanic Survival Prediction with Naive Bayes Classifier
+#### 38. Titanic Survival Prediction with Naive Bayes Classifier
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** pandas, numpy, scikit-learn (GaussianNB), StandardScaler, confusion_matrix
  
@@ -723,7 +709,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 40. Neural Network from Scratch — Logistic Regression for Heart Disease
+#### 39. Neural Network from Scratch — Logistic Regression for Heart Disease
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** numpy, pandas, sklearn
  
@@ -735,7 +721,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 41. Support Vector Machine Clustering Analysis
+#### 40. Support Vector Machine Clustering Analysis
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** scikit-learn, pandas, numpy, matplotlib
  
@@ -747,7 +733,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 42. Linear Regression and Classification from Scratch with Dimensionality Reduction
+#### 41. Linear Regression and Classification from Scratch with Dimensionality Reduction
 **Date:** May 2025 | **Language:** Python
 **Libraries:** numpy, pandas, matplotlib, seaborn, scikit-learn
  
@@ -761,7 +747,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 43. K-Nearest Neighbors (KNN) from Scratch for Iris Dataset
+#### 42. K-Nearest Neighbors (KNN) from Scratch for Iris Dataset
 **Date:** Spring 2025 | **Language:** Python
 **Libraries:** numpy, pandas, matplotlib, scikit-learn, collections.Counter
  
@@ -774,7 +760,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 44. Adam Optimization Algorithm Implementation
+#### 43. Adam Optimization Algorithm Implementation
 **Date:** January 2025 | **Language:** Python
  
 **GitHub:**
@@ -785,7 +771,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 45. 1D and Multidimensional Optimization Algorithms
+#### 44. 1D and Multidimensional Optimization Algorithms
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize, warnings, time
  
@@ -798,7 +784,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 46. Revised Simplex Method Implementation
+#### 45. Revised Simplex Method Implementation
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize.linprog, dataclasses, typing
  
@@ -811,7 +797,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 47. Fuel Consumption Analysis
+#### 46. Fuel Consumption Analysis
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
  
@@ -828,7 +814,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 48. Adaptive Huffman Coding Algorithm Implementation
+#### 47. Adaptive Huffman Coding Algorithm Implementation
 **Language:** Java
  
 **GitHub:**
@@ -840,7 +826,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 49. Color Vector Quantization Image Compression System
+#### 48. Color Vector Quantization Image Compression System
 **Date:** April 2025 | **Language:** Java
 **Libraries:** java.util.concurrent, java.io, java.util.logging, java.awt.image
  
@@ -853,7 +839,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 50. Vector Quantization Image Compression System
+#### 49. Vector Quantization Image Compression System
 **Date:** 2023 | **Language:** Java
 **Libraries:** java.awt, javax.imageio, java.io
  
@@ -866,7 +852,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 51. 2-D Feed Backward Predictive Coding for Image Compression
+#### 50. 2-D Feed Backward Predictive Coding for Image Compression
 **Date:** April 2025 | **Language:** Java
  
 **GitHub:**
@@ -879,7 +865,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 52. LZ78 Compression Algorithm Implementation
+#### 51. LZ78 Compression Algorithm Implementation
 **Language:** Java
 **Libraries:** java.io, java.util
  
@@ -891,7 +877,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 53. LZ77 Compression Algorithm Implementation
+#### 52. LZ77 Compression Algorithm Implementation
 **Languages:** Java and Python
 **Libraries (Java):** java.io, java.nio, java.util.regex | **Libraries (Python):** re, os
  
@@ -904,7 +890,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 54. Huffman Coding Data Compression System
+#### 53. Huffman Coding Data Compression System
 **Date:** 2024–2025 | **Language:** Java
 **Libraries:** java.io, java.util (PriorityQueue, HashMap), java.nio.file, BitSet
  
@@ -921,7 +907,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 55. Network File Transfer and Communication System
+#### 54. Network File Transfer and Communication System
 **Date:** May 2024 | **Language:** Python
 **Libraries:** socket, struct, time, matplotlib, select
  
@@ -938,7 +924,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 56. YouTube Video Search and Analysis
+#### 55. YouTube Video Search and Analysis
 **Date:** January 2024 | **Language:** Python
 **Libraries:** serpapi, requests, BeautifulSoup (bs4), html5lib
  
@@ -950,7 +936,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 57. Image Featuring & Labeling
+#### 56. Image Featuring & Labeling
 **Date:** January 2024 | **Language:** Python
 **Libraries:** requests, beautifulsoup4, google-search-results, opencv-python, numpy, matplotlib, dlib
  
@@ -990,6 +976,6 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-*Total projects: 57 (including Smart Triangle listed separately as Graduation Project)*
+*Total projects: 56 (including Smart Triangle listed separately as Graduation Project)*
 *CV template: Jake's Resume (Overleaf / pdfLaTeX)*
 
