@@ -561,6 +561,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 33. Flower Classification using Convolutional Neural Networks
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, PIL, ImageDataGenerator
+**GitHub:** [Flower-Classification-CNN](https://github.com/ahmedm0ssad/Flower-Classification-CNN)
 
 - Three custom CNN architectures for flower classification.
 - Data augmentation: rotation, width/height shifts, zoom, horizontal flips.
