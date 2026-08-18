@@ -714,6 +714,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 47. Revised Simplex Method Implementation
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize.linprog, dataclasses, typing
+**GitHub:** [Revised-Simplex-Method](https://github.com/ahmedm0ssad/Revised-Simplex-Method)
 
 - Implemented the Revised Simplex Method for linear programming.
 - Handles two-phase problems, unbounded solutions, and infeasibility detection.
