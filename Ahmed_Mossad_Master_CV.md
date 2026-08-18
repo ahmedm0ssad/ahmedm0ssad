@@ -771,6 +771,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 52. 2-D Feed Backward Predictive Coding for Image Compression
 **Date:** April 2025 | **Language:** Java
+**GitHub:** [Predictive-Coding-Compression](https://github.com/ahmedm0ssad/Predictive-Coding-Compression)
 
 - Implemented three predictor types: Order-1, Order-2, and Adaptive (gradient-based).
 - 98% reconstruction accuracy.
