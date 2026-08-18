@@ -685,6 +685,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 44. Adam Optimization Algorithm Implementation
 **Date:** January 2025 | **Language:** Python
+**GitHub:** [Adam-Optimization-Implementation](https://github.com/ahmedm0ssad/Adam-Optimization-Implementation)
 
 - Implemented the Adam optimizer from scratch to minimize a quadratic objective function.
 - Parameter tuning (β1, β2, ε, learning rate) and convergence verification.
