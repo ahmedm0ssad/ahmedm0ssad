@@ -798,15 +798,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 46. Lasso, Ridge, ElasticNet Comparison (MATH 303 — Linear and Non-linear Mathematics)
-**Date:** January 2025 | **Language:** Python
-**Libraries:** scikit-learn, LaTeX
-
-- Theoretical and practical comparative analysis of Lasso, Ridge, and ElasticNet regularized regression methods.
-
----
-
-#### 47. Revised Simplex Method Implementation
+#### 46. Revised Simplex Method Implementation
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize.linprog, dataclasses, typing
  
@@ -819,7 +811,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 48. Fuel Consumption Analysis
+#### 47. Fuel Consumption Analysis
 **Date:** May 2024 | **Language:** Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
  
@@ -836,7 +828,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 49. Adaptive Huffman Coding Algorithm Implementation
+#### 48. Adaptive Huffman Coding Algorithm Implementation
 **Language:** Java
  
 **GitHub:**
@@ -848,7 +840,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 50. Color Vector Quantization Image Compression System
+#### 49. Color Vector Quantization Image Compression System
 **Date:** April 2025 | **Language:** Java
 **Libraries:** java.util.concurrent, java.io, java.util.logging, java.awt.image
  
@@ -861,7 +853,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 51. Vector Quantization Image Compression System
+#### 50. Vector Quantization Image Compression System
 **Date:** 2023 | **Language:** Java
 **Libraries:** java.awt, javax.imageio, java.io
  
@@ -874,7 +866,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 52. 2-D Feed Backward Predictive Coding for Image Compression
+#### 51. 2-D Feed Backward Predictive Coding for Image Compression
 **Date:** April 2025 | **Language:** Java
  
 **GitHub:**
@@ -887,7 +879,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 53. LZ78 Compression Algorithm Implementation
+#### 52. LZ78 Compression Algorithm Implementation
 **Language:** Java
 **Libraries:** java.io, java.util
  
@@ -899,7 +891,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 54. LZ77 Compression Algorithm Implementation
+#### 53. LZ77 Compression Algorithm Implementation
 **Languages:** Java and Python
 **Libraries (Java):** java.io, java.nio, java.util.regex | **Libraries (Python):** re, os
  
@@ -912,7 +904,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 55. Huffman Coding Data Compression System
+#### 54. Huffman Coding Data Compression System
 **Date:** 2024–2025 | **Language:** Java
 **Libraries:** java.io, java.util (PriorityQueue, HashMap), java.nio.file, BitSet
  
@@ -929,7 +921,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 56. Network File Transfer and Communication System
+#### 55. Network File Transfer and Communication System
 **Date:** May 2024 | **Language:** Python
 **Libraries:** socket, struct, time, matplotlib, select
  
@@ -946,7 +938,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 58. YouTube Video Search and Analysis
+#### 56. YouTube Video Search and Analysis
 **Date:** January 2024 | **Language:** Python
 **Libraries:** serpapi, requests, BeautifulSoup (bs4), html5lib
  
@@ -958,7 +950,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 59. Image Featuring & Labeling
+#### 57. Image Featuring & Labeling
 **Date:** January 2024 | **Language:** Python
 **Libraries:** requests, beautifulsoup4, google-search-results, opencv-python, numpy, matplotlib, dlib
  
@@ -998,6 +990,6 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-*Total projects: 59 (including Smart Triangle listed separately as Graduation Project)*
+*Total projects: 57 (including Smart Triangle listed separately as Graduation Project)*
 *CV template: Jake's Resume (Overleaf / pdfLaTeX)*
 
