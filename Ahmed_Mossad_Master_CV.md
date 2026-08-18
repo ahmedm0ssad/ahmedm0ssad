@@ -11,17 +11,6 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 
 ---
 
-## EDUCATION
-
-**B.Sc. in Data Science and Artificial Intelligence**
-Zewail City of Science and Technology — Giza, Egypt
-Graduated: June 2026
-
-**Relevant Coursework:**
-Machine Learning, Deep Learning, NLP, MLOps (DSAI 406), Information Retrieval, Probability & Statistics, Linear Algebra, Calculus I & II, Data Structures & Algorithms, Experimental Design and Data Analysis, Scientific Computing, Numerical Optimization Methods, Advanced Database (CSAI 302), Information Theory (DSAI 325), Reinforcement Learning (DSAI 402), Nature Inspired Computation (DSAI 403), Big Data (DSAI 427), Speech Recognition (DSAI 456), Selected Topics in Deep Learning / GANs (DSAI 490), Linear and Non-linear Mathematics (MATH 303), Senior Graduation Project (CSAI 498/499)
-
----
-
 ## WORK EXPERIENCE
 
 ### Backend AI Engineering Intern — FlyRank (ZC-UST)
@@ -82,6 +71,17 @@ Machine Learning, Deep Learning, NLP, MLOps (DSAI 406), Information Retrieval, P
 - Designed a real-time alert system for parents and tutors using Supabase Realtime (WebSocket), with rule-based at-risk detection and Red/Yellow/Green readiness scoring per student.
 - Enforced JWT auth, Row-Level Security (RLS), and role-based access at both API and database level; full auth pipeline: JWT refresh tokens, SHA-256 + bcrypt, OTP, Google OAuth.
 - Approximately 2,600 lines of async tests across 13 test files; 30+ mobile screens.
+
+---
+
+## EDUCATION
+
+**B.Sc. in Data Science and Artificial Intelligence**
+Zewail City of Science and Technology — Giza, Egypt
+Graduated: June 2026
+
+**Relevant Coursework:**
+Machine Learning, Deep Learning, NLP, MLOps (DSAI 406), Information Retrieval, Probability & Statistics, Linear Algebra, Calculus I & II, Data Structures & Algorithms, Experimental Design and Data Analysis, Scientific Computing, Numerical Optimization Methods, Advanced Database (CSAI 302), Information Theory (DSAI 325), Reinforcement Learning (DSAI 402), Nature Inspired Computation (DSAI 403), Big Data (DSAI 427), Speech Recognition (DSAI 456), Selected Topics in Deep Learning / GANs (DSAI 490), Linear and Non-linear Mathematics (MATH 303), Senior Graduation Project (CSAI 498/499)
 
 ---
 
@@ -856,6 +856,14 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
+## CERTIFICATIONS
+
+- **AI Fluency: Framework & Foundations** — Anthropic Academy (2026)
+  AI fluency and foundations credential for working effectively with large language model systems.
+  [Verify certificate](https://verify.skilljar.com/c/w6om969xopr8)
+
+---
+
 ## ACTIVITIES
 
 ### Event Coordinator — Khair ZC, Zewail City
@@ -876,13 +884,6 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-## CERTIFICATIONS
-
-- **AI Fluency: Framework & Foundations** — Anthropic Academy (2026)
-  AI fluency and foundations credential for working effectively with large language model systems.
-  [Verify certificate](https://verify.skilljar.com/c/w6om969xopr8)
-
----
-
 *Total projects: 59 (including Smart Triangle listed separately as Graduation Project)*
 *CV template: Jake's Resume (Overleaf / pdfLaTeX)*
+
