@@ -653,6 +653,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 41. Support Vector Machine Clustering Analysis
 **Date:** Spring 2024 | **Language:** Python
 **Libraries:** scikit-learn, pandas, numpy, matplotlib
+**GitHub:** [SVM-Clustering-Analysis](https://github.com/ahmedm0ssad/SVM-Clustering-Analysis)
 
 - Applied SVM with RBF kernels to 6 clustering benchmark datasets: Aggregation, Compound, Flame, Jain, Pathbased, Spiral.
 - Gamma and C hyperparameter tuning experiments across all datasets.
