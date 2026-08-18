@@ -136,10 +136,10 @@ Graduated: June 2026
 
 ## Projects
 
-*56 projects total, grouped by domain. Click a category to expand.*
+*56 projects total, grouped by domain.*
 
-<details>
-<summary><h3>A. AI / LLM / RAG</h3></summary>
+---
+### A. AI / LLM / RAG
 
 #### 1. Explainable AI (XAI) for Credit Risk Assessment
 **Date:** 2025 · **Language:** Python
@@ -211,10 +211,8 @@ Graduated: June 2026
 - Developed a methodology for optimal batch size selection based on hardware constraints.
 - Applied production-ready techniques for deploying more efficient language models.
 
-</details>
-
-<details>
-<summary><h3>B. Big Data & Distributed Systems</h3></summary>
+---
+### B. Big Data & Distributed Systems
 
 #### 6. The Digital Librarian (DSAI 427 — Big Data)
 **Date:** 2024–2025 · **Languages:** Java + Python
@@ -255,10 +253,8 @@ Graduated: June 2026
 - 5-panel Streamlit dashboard auto-refreshing every 5s.
 - p95 end-to-end latency < 3 seconds.
 
-</details>
-
-<details>
-<summary><h3>C. Full-Stack / Software Engineering</h3></summary>
+---
+### C. Full-Stack / Software Engineering
 
 #### 9. Smart Triangle — Senior Graduation Project
 *(See [Graduation Project](#graduation-project) section above for full details.)*
@@ -297,10 +293,8 @@ Graduated: June 2026
 - Developed RESTful API endpoints to deliver insights on sales trends, customer segmentation, and product performance.
 - Enhanced data-driven decision-making by providing interactive and real-time analytics.
 
-</details>
-
-<details>
-<summary><h3>D. MLOps</h3></summary>
+---
+### D. MLOps
 
 #### 13. End-to-End MLOps Pipeline (Advanced / Standalone)
 **Date:** 2026 · **Language:** Python
@@ -311,10 +305,8 @@ Graduated: June 2026
 - Implemented reproducible Conda + Docker environments; GitHub Actions workflow with artifact handoff between validation and deployment jobs.
 - Mirrors industrial IT automation and reproducibility workflows.
 
-</details>
-
-<details>
-<summary><h3>E. Natural Language Processing / Speech Recognition</h3></summary>
+---
+### E. Natural Language Processing / Speech Recognition
 
 #### 14. DSAI 456 Speech Recognition — Course Project Series
 **Date:** 2024–2025 (6 Assignments) · ZC-UST
@@ -353,10 +345,8 @@ Graduated: June 2026
 - Evaluated retrieval performance using precision and recall metrics.
 - Gained hands-on experience in data analysis, NLP, and information retrieval, showcasing problem-solving and research skills.
 
-</details>
-
-<details>
-<summary><h3>F. Nature-Inspired Optimization</h3></summary>
+---
+### F. Nature-Inspired Optimization
 
 #### 17. Nature-Inspired Optimization for Sentiment Analysis (DSAI 403 Capstone)
 **Stack:** Python, TensorFlow 2.x, Keras, scikit-learn, NumPy, pandas, LIME, SHAP, matplotlib, seaborn, Jupyter
@@ -383,10 +373,8 @@ Graduated: June 2026
 - Secondary application: PSO for U-Net hyperparameter tuning on CIFAR-10.
 - 3,600-line notebook refactored into installable Python package.
 
-</details>
-
-<details>
-<summary><h3>G. Reinforcement Learning</h3></summary>
+---
+### G. Reinforcement Learning
 
 #### 19. DSAI 402 Reinforcement Learning — Assignment Series
 **Date:** Fall 2025 (4th Year, 6 Assignments)
@@ -412,10 +400,8 @@ Graduated: June 2026
 - Implemented Hill Climbing, Simulated Annealing, and Genetic Algorithms for pathfinding.
 - Built 3D visualization tools for path rendering using Matplotlib mpl_toolkits.
 
-</details>
-
-<details>
-<summary><h3>H. Deep Learning / Computer Vision</h3></summary>
+---
+### H. Deep Learning / Computer Vision
 
 #### 21. Person Tracking and Path Visualization System
 **Date:** April 2025 · **Language:** Python
@@ -582,10 +568,8 @@ Graduated: June 2026
 - WGAN-GP: best overall (47.58% Condition Pass Rate, 100% month accuracy, 75.63% leap-year accuracy).
 - CVAE: 31.48% CPR; Discrete Diffusion: 34.04% CPR; Transformer Seq2Seq: 24.52% CPR (mode collapse observed).
 
-</details>
-
-<details>
-<summary><h3>I. Classical Machine Learning</h3></summary>
+---
+### I. Classical Machine Learning
 
 #### 35. Statistical Inference for Diabetes Dataset Analysis
 **Date:** January 2025 · **Language:** R
@@ -716,10 +700,8 @@ Graduated: June 2026
 - Leveraged Python libraries (Pandas, NumPy) to process and analyze large datasets, identifying trends and actionable insights.
 - Visualized key findings to support data-driven decision-making, showcasing proficiency in exploratory data analysis.
 
-</details>
-
-<details>
-<summary><h3>J. Data Compression / Information Theory (DSAI 325 — Java)</h3></summary>
+---
+### J. Data Compression / Information Theory (DSAI 325 — Java)
 
 #### 47. Adaptive Huffman Coding Algorithm Implementation
 **Language:** Java
@@ -794,10 +776,8 @@ Graduated: June 2026
 - Code table persistence for reuse.
 - Binary file handling.
 
-</details>
-
-<details>
-<summary><h3>K. Systems / Networking</h3></summary>
+---
+### K. Systems / Networking
 
 #### 54. Network File Transfer and Communication System
 **Date:** May 2024 · **Language:** Python
@@ -808,10 +788,8 @@ Graduated: June 2026
 - Retransmission handling and acknowledgment mechanisms for UDP.
 - Performance metrics visualization with matplotlib.
 
-</details>
-
-<details>
-<summary><h3>L. Data Collection / Miscellaneous</h3></summary>
+---
+### L. Data Collection / Miscellaneous
 
 #### 55. YouTube Video Search and Analysis
 **Date:** January 2024 · **Language:** Python
@@ -830,8 +808,6 @@ Graduated: June 2026
 
 - Data acquisition pipeline with web scraping.
 - Image processing and facial landmark detection using dlib.
-
-</details>
 
 ---
 
