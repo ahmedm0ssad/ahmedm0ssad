@@ -1,23 +1,51 @@
-# AHMED MOSSAD — MASTER CV
+# Ahmed Mossad
+### AI Engineer — Data Science & AI (DSAI)
 
-**Giza, Egypt** | +20 102 963 8868 | ahmed.abdelfattah.mossad@gmail.com
-[linkedin.com/in/ahmed-mossad-4528202b2](https://linkedin.com/in/ahmed-mossad-4528202b2) | [github.com/ahmedm0ssad](https://github.com/ahmedm0ssad)
+📍 Giza, Egypt &nbsp;|&nbsp; 📞 +20 102 963 8868 &nbsp;|&nbsp; ✉️ ahmed.abdelfattah.mossad@gmail.com
 
----
-
-## SUMMARY
-
-AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a backend AI internship. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mossad-4528202b2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmedm0ssad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmed.abdelfattah.mossad@gmail.com)
 
 ---
 
-## WORK EXPERIENCE
+## Table of Contents
+
+- [Summary](#summary)
+- [Work Experience](#work-experience)
+- [Graduation Project](#graduation-project)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Projects](#projects) (56 total)
+  - [A. AI / LLM / RAG](#a-ai--llm--rag)
+  - [B. Big Data & Distributed Systems](#b-big-data--distributed-systems)
+  - [C. Full-Stack / Software Engineering](#c-full-stack--software-engineering)
+  - [D. MLOps](#d-mlops)
+  - [E. Natural Language Processing / Speech Recognition](#e-natural-language-processing--speech-recognition)
+  - [F. Nature-Inspired Optimization](#f-nature-inspired-optimization)
+  - [G. Reinforcement Learning](#g-reinforcement-learning)
+  - [H. Deep Learning / Computer Vision](#h-deep-learning--computer-vision)
+  - [I. Classical Machine Learning](#i-classical-machine-learning)
+  - [J. Data Compression / Information Theory](#j-data-compression--information-theory)
+  - [K. Systems / Networking](#k-systems--networking)
+  - [L. Data Collection / Miscellaneous](#l-data-collection--miscellaneous)
+- [Certifications](#certifications)
+- [Activities](#activities)
+- [Languages](#languages)
+
+---
+
+## Summary
+
+AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a backend AI internship. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
+
+---
+
+## Work Experience
 
 ### Backend AI Engineering Intern — FlyRank (ZC-UST)
-**Jul 2026 – Present | Chicago, IL, USA · Remote · Backend AI Track**
- 
-**GitHub:**
-[flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)
+**Jul 2026 – Present** · Chicago, IL, USA · Remote · Backend AI Track
+**GitHub:** [flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)
 
 - Built an embeddable widget and lead-capture platform in FastAPI: tenant-isolated widget CRUD, embeddable versioned JS bundle with immutable HTTP cache headers, and cache-busting on widget update.
 - Designed a defense-in-depth public submission pipeline — Pydantic boundary validation, CORS/preflight handling, 3-tier rate limiting (429 + Retry-After), origin checks, honeypot and heuristic spam scoring, and fingerprint dedup.
@@ -26,14 +54,14 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 - Maintained a 938-test suite at 100% coverage plus a GitHub Actions CI pipeline (isort → black → ruff → pytest) and a Docker Compose stack (FastAPI, PostgreSQL 16, Redis 7).
 
 ### MEAN Stack Web Development Trainee — National Telecommunication Institute (NTI)
-**Aug 2026 – Present | Advanced Summer Training Program 2026 · In collaboration with ITIDA**
+**Aug 2026 – Present** · Advanced Summer Training Program 2026 · In collaboration with ITIDA
 
 - Selected for the Advanced Summer Training Program 2026, focusing on MEAN Stack Web Development.
 - Developing practical full-stack web development skills across frontend, backend, APIs, and database integration.
 - Building familiarity with the JavaScript/TypeScript ecosystem and modern web application architecture.
 
 ### Programming Instructor — GEEK CODE
-**Jun 2026 – Jul 2026 | Remote**
+**Jun 2026 – Jul 2026** · Remote
 
 - Deliver one-to-one programming instruction for students aged 12–15 in Python and Scratch, adapting explanations and learning activities to each student's skill level and learning pace.
 - Teach core programming concepts including variables, conditionals, loops, functions, problem-solving, and project-based development through interactive sessions.
@@ -43,7 +71,7 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 - Create an engaging and encouraging learning environment that promotes curiosity, creativity, and long-term interest in computer science.
 
 ### Programming Tutor & Content Creator — Bonyan
-**2025–2026 | Online & On-site · Children's Educational Platform**
+**2025 – 2026** · Online & On-site · Children's Educational Platform
 
 - Taught programming fundamentals to children across multiple age groups in both classroom and online settings — variables, loops, functions, conditionals, and project-based logic.
 - Designed age-appropriate curricula from scratch: broke abstract technical concepts into visual, hands-on activities matched to each learner's level and pace.
@@ -52,7 +80,7 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 - Developed educational content tailored for children, combining hands-on exercises with engaging explanations to improve learning outcomes.
 
 ### AI Model Testing Specialist (Freelance) — Outlier
-**Oct 2024 – Jan 2025 | Remote**
+**Oct 2024 – Jan 2025** · Remote
 
 - Designed and optimized prompts for large-scale LLMs; built evaluation frameworks to assess and debug model outputs.
 - Identified behavioral failure patterns, improving response quality and reliability for enterprise applications.
@@ -61,10 +89,11 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 
 ---
 
-## GRADUATION PROJECT
+## Graduation Project
 
 ### Smart Triangle — AI-Driven Educational Platform
-**2025 – 2026 | Role: Lead Backend and AI Engine Engineer**
+**2025 – 2026** · Role: Lead Backend and AI Engine Engineer
+
 **Stack:** Python, FastAPI, Uvicorn, Pydantic v2, SQLAlchemy (async), asyncpg, PostgreSQL, Supabase, pgvector, LlamaIndex, Groq API (Llama 3.3 70B), sentence-transformers (BAAI/bge-base-en-v1.5), pymupdf4llm, JWT, bcrypt, Google OAuth, OTP (Resend API), React Native, Expo SDK 54, Expo Router v6, TypeScript, axios, expo-secure-store, Docker, Azure Container Apps, GitHub Actions, CI/CD, pytest, pytest-asyncio, ruff, pandas, openpyxl, APScheduler, NumPy, scikit-learn, SSE Streaming, Supabase Realtime (WebSocket), TanStack Query
 
 - Architected a full-stack adaptive learning system with three role-based portals (Student, Parent, Tutor) — 25 features, 42 API endpoints, 17 database tables, deployed to Azure Container Apps via CI/CD pipeline. Zero paid infrastructure ($0/month).
@@ -76,71 +105,46 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 
 ---
 
-## EDUCATION
+## Education
 
 **B.Sc. in Data Science and Artificial Intelligence**
 Zewail City of Science and Technology — Giza, Egypt
 Graduated: June 2026
 
-**Relevant Coursework:**
-Machine Learning, Deep Learning, NLP, MLOps (DSAI 406), Information Retrieval, Probability & Statistics, Linear Algebra, Calculus I & II, Data Structures & Algorithms, Experimental Design and Data Analysis, Scientific Computing, Numerical Optimization Methods, Advanced Database (CSAI 302), Information Theory (DSAI 325), Reinforcement Learning (DSAI 402), Nature Inspired Computation (DSAI 403), Big Data (DSAI 427), Speech Recognition (DSAI 456), Selected Topics in Deep Learning / GANs (DSAI 490), Linear and Non-linear Mathematics (MATH 303), Senior Graduation Project (CSAI 498/499)
+**Relevant Coursework:** Machine Learning, Deep Learning, NLP, MLOps (DSAI 406), Information Retrieval, Probability & Statistics, Linear Algebra, Calculus I & II, Data Structures & Algorithms, Experimental Design and Data Analysis, Scientific Computing, Numerical Optimization Methods, Advanced Database (CSAI 302), Information Theory (DSAI 325), Reinforcement Learning (DSAI 402), Nature Inspired Computation (DSAI 403), Big Data (DSAI 427), Speech Recognition (DSAI 456), Selected Topics in Deep Learning / GANs (DSAI 490), Linear and Non-linear Mathematics (MATH 303), Senior Graduation Project (CSAI 498/499)
 
 ---
 
-## TECHNICAL SKILLS
+## Technical Skills
 
-### Languages
-Python, JavaScript/TypeScript, SQL, R, C/C++, Java, Bash
-
-### AI / Machine Learning
-PyTorch, TensorFlow, Keras, Scikit-learn, HuggingFace Transformers, XGBoost, LightGBM, SHAP, LIME, OpenCV
-
-### Generative AI & LLM
-RAG Pipelines, LlamaIndex, LangChain, FAISS, pgvector, ChromaDB, Sentence-Transformers, Groq API (Llama 3.3 70B), Google Gemini API, Prompt Engineering, SSE Streaming
-
-### MLOps & DevOps
-MLflow, DVC, DagsHub, Docker, Docker Compose, GitHub Actions CI/CD, Azure Container Apps, Conda, Sentry, Experiment Tracking, ruff, flake8, black, mypy, pytest
-
-### Backend & Databases
-FastAPI, Flask, ASP.NET Core, Uvicorn, Pydantic, RESTful APIs, Supabase, PostgreSQL, SQLite, MySQL, SQLAlchemy, Row-Level Security (RLS), JWT, bcrypt, Google OAuth
-
-### Frontend & Mobile
-React Native, Expo, React, Next.js, TanStack Query, TypeScript, Tailwind CSS, axios
-
-### Big Data & Distributed Systems
-Apache Spark (PySpark, Spark SQL, Spark MLlib, Structured Streaming), Apache Kafka, Apache Hadoop (HDFS, YARN, MapReduce), Maven
-
-### Computer Vision
-OpenCV, YOLO (v10/v11/v12), ultralytics, SORT tracking algorithm, Kalman filtering, scikit-image
-
-### NLP & Speech
-MFCC, FFT/STFT, LPC, Mel spectrograms, GMM, EM algorithm, HMM (Forward algorithm, Viterbi), CTC loss, Bidirectional LSTM, gensim, nltk, hmmlearn, librosa, beam search
-
-### Data & Visualization
-Pandas, NumPy, Matplotlib, Seaborn, Plotly, ggplot2, EDA, Feature Engineering, Statistical Modeling, Time-Series Analysis, Hypothesis Testing
-
-### Optimization & Math
-SHAP, LIME, PDPs, counterfactual explanations, metaheuristics (ACO, PSO, GWO, WOA, Firefly, Cuckoo Search, Bat Algorithm, Simulated Annealing, Tabu Search, Hill Climbing), Revised Simplex Method, Normal Equations, Gradient Descent variants
-
-### Soft Skills
-Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Project-Based Learning, Team Collaboration, Stakeholder Communication, Curriculum Design
+| Category | Skills |
+|---|---|
+| **Languages** | Python, JavaScript/TypeScript, SQL, R, C/C++, Java, Bash |
+| **AI / Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-learn, HuggingFace Transformers, XGBoost, LightGBM, SHAP, LIME, OpenCV |
+| **Generative AI & LLM** | RAG Pipelines, LlamaIndex, LangChain, FAISS, pgvector, ChromaDB, Sentence-Transformers, Groq API (Llama 3.3 70B), Google Gemini API, Prompt Engineering, SSE Streaming |
+| **MLOps & DevOps** | MLflow, DVC, DagsHub, Docker, Docker Compose, GitHub Actions CI/CD, Azure Container Apps, Conda, Sentry, Experiment Tracking, ruff, flake8, black, mypy, pytest |
+| **Backend & Databases** | FastAPI, Flask, ASP.NET Core, Uvicorn, Pydantic, RESTful APIs, Supabase, PostgreSQL, SQLite, MySQL, SQLAlchemy, Row-Level Security (RLS), JWT, bcrypt, Google OAuth |
+| **Frontend & Mobile** | React Native, Expo, React, Next.js, TanStack Query, TypeScript, Tailwind CSS, axios |
+| **Big Data & Distributed Systems** | Apache Spark (PySpark, Spark SQL, Spark MLlib, Structured Streaming), Apache Kafka, Apache Hadoop (HDFS, YARN, MapReduce), Maven |
+| **Computer Vision** | OpenCV, YOLO (v10/v11/v12), ultralytics, SORT tracking algorithm, Kalman filtering, scikit-image |
+| **NLP & Speech** | MFCC, FFT/STFT, LPC, Mel spectrograms, GMM, EM algorithm, HMM (Forward algorithm, Viterbi), CTC loss, Bidirectional LSTM, gensim, nltk, hmmlearn, librosa, beam search |
+| **Data & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, ggplot2, EDA, Feature Engineering, Statistical Modeling, Time-Series Analysis, Hypothesis Testing |
+| **Optimization & Math** | SHAP, LIME, PDPs, counterfactual explanations, metaheuristics (ACO, PSO, GWO, WOA, Firefly, Cuckoo Search, Bat Algorithm, Simulated Annealing, Tabu Search, Hill Climbing), Revised Simplex Method, Normal Equations, Gradient Descent variants |
+| **Soft Skills** | Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Project-Based Learning, Team Collaboration, Stakeholder Communication, Curriculum Design |
 
 ---
 
-## PROJECTS
+## Projects
 
----
+*56 projects total, grouped by domain. Click a category to expand.*
 
-### A. AI / LLM / RAG
-
----
+<details>
+<summary><h3>A. AI / LLM / RAG</h3></summary>
 
 #### 1. Explainable AI (XAI) for Credit Risk Assessment
-**Date:** 2025 | **Language:** Python
-**Libraries:** pandas, numpy, scikit-learn, tensorflow/keras, xgboost, lightgbm, shap, lime, matplotlib, seaborn
- 
-**GitHub:**
-[XAI-Credit-Risk-Assessment](https://github.com/ahmedm0ssad/XAI-Credit-Risk-Assessment)
+**Date:** 2025 · **Language:** Python
+**Stack:** pandas, numpy, scikit-learn, tensorflow/keras, xgboost, lightgbm, shap, lime, matplotlib, seaborn
+**GitHub:** [XAI-Credit-Risk-Assessment](https://github.com/ahmedm0ssad/XAI-Credit-Risk-Assessment)
 
 - Designed a comprehensive pipeline for data preprocessing, model training, and performance evaluation on the Lending Club dataset for loan default prediction.
 - Implemented and compared Decision Trees, XGBoost, LightGBM, and Deep Neural Networks, achieving high AUC scores.
@@ -153,11 +157,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 2. Local RAG-Powered Document Assistant
-**Date:** 2025 | **Language:** Python
-**Libraries:** torch, transformers, sentence_transformers, chromadb, streamlit, tree-sitter, llama_index / LlamaIndex
- 
-**GitHub:**
-[Local-RAG-Document-Assistant](https://github.com/ahmedm0ssad/Local-RAG-Document-Assistant)
+**Date:** 2025 · **Language:** Python
+**Stack:** torch, transformers, sentence_transformers, chromadb, streamlit, tree-sitter, llama_index / LlamaIndex
+**GitHub:** [Local-RAG-Document-Assistant](https://github.com/ahmedm0ssad/Local-RAG-Document-Assistant)
 
 - Designed multi-format document processing system with specialized extraction for different file types.
 - Implemented semantic code analysis with structural parsing capabilities for multiple programming languages.
@@ -170,11 +172,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 3. arXiv RAG Web Application
-**Date:** 2024 | **Language:** Python
-**Libraries:** Flask, FAISS, Sentence-Transformers, Google Generative AI (Gemini), PyTorch, pandas, numpy, tqdm
- 
-**GitHub:**
-[Arxiv-RAG-Webapp](https://github.com/ahmedm0ssad/Arxiv-RAG-Webapp)
+**Date:** 2024 · **Language:** Python
+**Stack:** Flask, FAISS, Sentence-Transformers, Google Generative AI (Gemini), PyTorch, pandas, numpy, tqdm
+**GitHub:** [Arxiv-RAG-Webapp](https://github.com/ahmedm0ssad/Arxiv-RAG-Webapp)
 
 - Designed a comprehensive text normalization system optimized for scientific/academic content.
 - Engineered prompt templates for effective context integration with LLM responses.
@@ -186,11 +186,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 4. RAG System with ML Intelligence (CSAI 302 — Advanced Database)
-**Date:** 2024–2025 | **Language:** Python
+**Date:** 2024–2025 · **Language:** Python
 **Stack:** Sentence Transformers (all-MiniLM-L6-v2), ChromaDB, Google Gemini API, XGBoost, scikit-learn, Streamlit, Plotly, Pydantic, Loguru, JSONL feedback system
- 
-**GitHub:**
-[RAG-Optimization-System](https://github.com/ahmedm0ssad/RAG-Optimization-System)
+**GitHub:** [RAG-Optimization-System](https://github.com/ahmedm0ssad/RAG-Optimization-System)
 
 - End-to-end RAG system with five-layer pipeline: ingestion, embedding, vector DB, retrieval, generation.
 - Included Streamlit UI, feedback system (JSONL), and ML optimization layer with XGBoost-based ParameterOptimizer, DifficultyPredictor, and QualityPredictor.
@@ -200,11 +198,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 5. LLM Benchmarking and Optimization Framework
-**Date:** 04/2025 | **Language:** Python
-**Libraries:** PyTorch, HuggingFace Transformers, CUDA, pandas, matplotlib, seaborn, datasets, tqdm
- 
-**GitHub:**
-[LLM-Optimization](https://github.com/ahmedm0ssad/LLM-Optimization)
+**Date:** 04/2025 · **Language:** Python
+**Stack:** PyTorch, HuggingFace Transformers, CUDA, pandas, matplotlib, seaborn, datasets, tqdm
+**GitHub:** [LLM-Optimization](https://github.com/ahmedm0ssad/LLM-Optimization)
 
 - Implemented mixed precision inference, dynamic quantization, and batch size optimization.
 - Evaluated on WikiText perplexity and GSM8K accuracy benchmarks.
@@ -215,19 +211,16 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 - Developed a methodology for optimal batch size selection based on hardware constraints.
 - Applied production-ready techniques for deploying more efficient language models.
 
----
+</details>
 
-### B. Big Data & Distributed Systems
-
----
+<details>
+<summary><h3>B. Big Data & Distributed Systems</h3></summary>
 
 #### 6. The Digital Librarian (DSAI 427 — Big Data)
-**Date:** 2024–2025 | **Languages:** Java + Python
+**Date:** 2024–2025 · **Languages:** Java + Python
 **Stack:** Apache Hadoop 3.3.6, HDFS, YARN, MapReduce, Maven, Docker, Docker Compose, Python, pandas, matplotlib, NumPy, Bash
 **Role:** Full Java MapReduce, Distributed Cache, Bash scripts, Docker multi-node, Python benchmarking (pair project with Habiba Arafa)
- 
-**GitHub:**
-[Digital-Librarian](https://github.com/ahmedm0ssad/Digital-Librarian)
+**GitHub:** [Digital-Librarian](https://github.com/ahmedm0ssad/Digital-Librarian)
 
 - Distributed inverted-index system on Hadoop. Four MapReduce classes: Mapper, Combiner, Reducer, Driver.
 - Dataset: 10 Project Gutenberg books (~6MB, ~117K lines).
@@ -239,11 +232,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 7. NYC Taxi Trip Duration & Telco Churn Analysis (DSAI 427)
-**Date:** 2024–2025 | **Language:** Python (PySpark)
+**Date:** 2024–2025 · **Language:** Python (PySpark)
 **Stack:** Apache Spark 3.5.8, PySpark, Spark SQL, Spark MLlib, Parquet, pandas, NumPy, Kaggle
- 
-**GitHub:**
-[NYC-Taxi-Spark-Analysis](https://github.com/ahmedm0ssad/NYC-Taxi-Spark-Analysis)
+**GitHub:** [NYC-Taxi-Spark-Analysis](https://github.com/ahmedm0ssad/NYC-Taxi-Spark-Analysis)
 
 - Spark analytics on 1.46M NYC taxi records (cleaned to 1.275M).
 - Implemented ten analytical queries across RDD, DataFrame, and Spark SQL APIs.
@@ -255,9 +246,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 8. Real-Time Movie Recommendation System (Big Data Capstone)
 **Language:** Python
 **Stack:** Apache Kafka 3.5.0, Spark Structured Streaming 3.5.0, PySpark MLlib (ALS), Streamlit, Plotly, Pandas, NumPy, PyArrow, Parquet, WSL Ubuntu
- 
-**GitHub:**
-[Real-Time-Recommendation-System](https://github.com/ahmedm0ssad/Real-Time-Recommendation-System)
+**GitHub:** [Real-Time-Recommendation-System](https://github.com/ahmedm0ssad/Real-Time-Recommendation-System)
 
 - Production-grade end-to-end recommendation system using ALS collaborative filtering on MovieLens 1M dataset (RMSE: 0.8705).
 - Kafka producer at ~2 events/second with 5% fault injection.
@@ -266,23 +255,20 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 - 5-panel Streamlit dashboard auto-refreshing every 5s.
 - p95 end-to-end latency < 3 seconds.
 
----
+</details>
 
-### C. Full-Stack / Software Engineering
-
----
+<details>
+<summary><h3>C. Full-Stack / Software Engineering</h3></summary>
 
 #### 9. Smart Triangle — Senior Graduation Project
-*(See Graduation Project section above for full details)*
+*(See [Graduation Project](#graduation-project) section above for full details.)*
 
 ---
 
 #### 10. Fanni-3lbab: Artisan Service Platform
-**Date:** January 2025 | **Languages:** JavaScript, TypeScript, Python, SQL
+**Date:** January 2025 · **Languages:** JavaScript, TypeScript, Python, SQL
 **Stack:** React, Next.js, Tailwind CSS, Flask, SQLAlchemy, Pydantic, Alembic, MySQL, Node.js, Uvicorn, Google OAuth
- 
-**GitHub:**
-[Fanni-3lbab](https://github.com/ahmedm0ssad/Fanni-3lbab)
+**GitHub:** [Fanni-3lbab](https://github.com/ahmedm0ssad/Fanni-3lbab)
 
 - Full-stack platform with role-based authentication (Google OAuth), REST APIs, and database migrations.
 - Course landing page built with Next.js; artisan platform built with React.
@@ -291,10 +277,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 11. Education Management System
-**Date:** January 2024 | **Languages:** HTML/CSS/JavaScript, C# (ASP.NET Core)
- 
-**GitHub:**
-[Education-Management-System](https://github.com/ahmedm0ssad/Education-Management-System)
+**Date:** January 2024 · **Languages:** HTML/CSS/JavaScript, C# (ASP.NET Core)
+**GitHub:** [Education-Management-System](https://github.com/ahmedm0ssad/Education-Management-System)
 
 - Designed and implemented a responsive web application for managing courses, instructors, and student interactions using ASP.NET Core and HTML/CSS/JavaScript.
 - Developed dynamic pages for course details, instructor profiles, and student enrollment, ensuring seamless user experience.
@@ -304,62 +288,52 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 12. Data Visualization and Analysis Web Application
-**Date:** January 2024 | **Language:** Python
+**Date:** January 2024 · **Language:** Python
 **Stack:** Flask, Pandas, SQLAlchemy, SQLite
- 
-**GitHub:**
-[Data-Visualization-Web-App](https://github.com/ahmedm0ssad/Data-Visualization-Web-App)
+**GitHub:** [Data-Visualization-Web-App](https://github.com/ahmedm0ssad/Data-Visualization-Web-App)
 
 - Built a Flask-based web app to analyze and visualize sales and profit data from a global retail dataset.
 - Processed and queried data using Pandas and SQLAlchemy, storing results in an SQLite database.
 - Developed RESTful API endpoints to deliver insights on sales trends, customer segmentation, and product performance.
 - Enhanced data-driven decision-making by providing interactive and real-time analytics.
 
----
+</details>
 
-### D. MLOps
-
----
+<details>
+<summary><h3>D. MLOps</h3></summary>
 
 #### 13. End-to-End MLOps Pipeline (Advanced / Standalone)
-**Date:** 2026 | **Language:** Python
+**Date:** 2026 · **Language:** Python
 **Stack:** MLflow, Docker, GitHub Actions, DVC, Conda
- 
-**GitHub:**
-[End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
+**GitHub:** [End-To-End-MLOps-Pipeline](https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline)
 
 - Built a multi-stage CI/CD pipeline: DVC data pull → MLflow experiment tracking → threshold-based quality gate → automated Docker build triggered only when accuracy ≥ 0.85.
 - Implemented reproducible Conda + Docker environments; GitHub Actions workflow with artifact handoff between validation and deployment jobs.
 - Mirrors industrial IT automation and reproducibility workflows.
 
----
+</details>
 
-### E. Natural Language Processing / Speech Recognition
-
----
+<details>
+<summary><h3>E. Natural Language Processing / Speech Recognition</h3></summary>
 
 #### 14. DSAI 456 Speech Recognition — Course Project Series
-**Date:** 2024–2025 (6 Assignments) | ZC-UST
+**Date:** 2024–2025 (6 Assignments) · ZC-UST
 **Stack:** Python, PyTorch, librosa, NumPy, SciPy, Matplotlib, Seaborn, hmmlearn, pytest, GitHub Actions, TIMIT, VCTK, MFCC, Mel spectrograms, FFT/STFT, LPC, GMM, EM algorithm, HMM, CTC loss, Bidirectional LSTM, Viterbi algorithm, Forward algorithm, beam search, black, flake8, mypy
- 
-**GitHub:**
-[Speech-Recognition-Pipeline](https://github.com/ahmedm0ssad/Speech-Recognition-Pipeline)
+**GitHub:** [Speech-Recognition-Pipeline](https://github.com/ahmedm0ssad/Speech-Recognition-Pipeline)
 
-**Assignment 1:** RMS/pitch analysis package with CI/CD (GitHub Actions).
-**Assignment 2:** FFT/STFT spectrogram pipeline; frequency-domain analysis.
-**Assignment 3:** Mel spectrogram gender comparison across speaker groups.
-**Assignment 4:** GMM speaker identification — EM algorithm from scratch; VCTK dataset, 110 speakers.
-**Assignment 5:** HMM speaker recognition — custom Forward algorithm and Viterbi decoder in pure NumPy; TIMIT dataset.
-**Assignment 6:** End-to-end phoneme recognizer — 3-layer Bidirectional LSTM (~2M parameters) + custom CTC loss in PyTorch + greedy and beam search decoders; targeting 18–25% Phoneme Error Rate (PER).
+- **Assignment 1:** RMS/pitch analysis package with CI/CD (GitHub Actions).
+- **Assignment 2:** FFT/STFT spectrogram pipeline; frequency-domain analysis.
+- **Assignment 3:** Mel spectrogram gender comparison across speaker groups.
+- **Assignment 4:** GMM speaker identification — EM algorithm from scratch; VCTK dataset, 110 speakers.
+- **Assignment 5:** HMM speaker recognition — custom Forward algorithm and Viterbi decoder in pure NumPy; TIMIT dataset.
+- **Assignment 6:** End-to-end phoneme recognizer — 3-layer Bidirectional LSTM (~2M parameters) + custom CTC loss in PyTorch + greedy and beam search decoders; targeting 18–25% Phoneme Error Rate (PER).
 
 ---
 
 #### 15. Natural Language Processing: Advanced Word Embedding Models Classification
-**Date:** 05/2025 | **Language:** Python
-**Libraries:** pandas, numpy, nltk, tensorflow/keras, tensorflow_hub, gensim, scikit-learn, matplotlib, seaborn
- 
-**GitHub:**
-[Word-Embedding-Models-Classification](https://github.com/ahmedm0ssad/Word-Embedding-Models-Classification)
+**Date:** 05/2025 · **Language:** Python
+**Stack:** pandas, numpy, nltk, tensorflow/keras, tensorflow_hub, gensim, scikit-learn, matplotlib, seaborn
+**GitHub:** [Word-Embedding-Models-Classification](https://github.com/ahmedm0ssad/Word-Embedding-Models-Classification)
 
 - Engineered complete text preprocessing pipeline including tokenization, stopword removal, and sequence padding.
 - Implemented and compared CBOW, Skip-gram, GloVe, and ELMo embedding methods for poem genre classification using biLSTM.
@@ -370,10 +344,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 16. Information Retrieval System Development
-**Date:** May 2024 | **Language:** Python (PyTerrier)
- 
-**GitHub:**
-[Information-Retrieval-System](https://github.com/ahmedm0ssad/Information-Retrieval-System)
+**Date:** May 2024 · **Language:** Python (PyTerrier)
+**GitHub:** [Information-Retrieval-System](https://github.com/ahmedm0ssad/Information-Retrieval-System)
 
 - Built an Information Retrieval system using Python and PyTerrier to preprocess, index, and retrieve documents from a large dataset.
 - Implemented query expansion techniques (e.g., RM3) to improve retrieval accuracy.
@@ -381,20 +353,17 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 - Evaluated retrieval performance using precision and recall metrics.
 - Gained hands-on experience in data analysis, NLP, and information retrieval, showcasing problem-solving and research skills.
 
----
+</details>
 
-### F. Nature-Inspired Optimization
-
----
+<details>
+<summary><h3>F. Nature-Inspired Optimization</h3></summary>
 
 #### 17. Nature-Inspired Optimization for Sentiment Analysis (DSAI 403 Capstone)
-**Tech Stack:** Python, TensorFlow 2.x, Keras, scikit-learn, NumPy, pandas, LIME, SHAP, matplotlib, seaborn, Jupyter
+**Stack:** Python, TensorFlow 2.x, Keras, scikit-learn, NumPy, pandas, LIME, SHAP, matplotlib, seaborn, Jupyter
 **Metaheuristics:** ACO, PSO, GWO, WOA, Firefly, Cuckoo Search, Bat Algorithm, Simulated Annealing, Tabu Search, Hill Climbing
 **Model:** Dual-input Conv1D CNN
 **Dataset:** Sentiment140 (Twitter), 15K samples
- 
-**GitHub:**
-[Nature-Inspired-Computation](https://github.com/ahmedm0ssad/Nature-Inspired-Computation)
+**GitHub:** [Nature-Inspired-Computation](https://github.com/ahmedm0ssad/Nature-Inspired-Computation)
 
 - Applied 16 metaheuristic algorithms to tune a dual-input CNN for Twitter sentiment classification.
 - Used ACO for feature selection: reduced from 10 to 4 features.
@@ -406,62 +375,52 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 18. Nature-Inspired Optimization Library (DSAI 403)
-**Tech Stack:** Python, NumPy, Pandas, scikit-learn, TF-IDF, RandomForestClassifier, PyTorch, TorchVision, Matplotlib, SciPy, Jupyter, kagglehub
- 
-**GitHub:**
-[Nature-Inspired-Optimization-Library](https://github.com/ahmedm0ssad/Nature-Inspired-Optimization-Library)
+**Stack:** Python, NumPy, Pandas, scikit-learn, TF-IDF, RandomForestClassifier, PyTorch, TorchVision, Matplotlib, SciPy, Jupyter, kagglehub
+**GitHub:** [Nature-Inspired-Optimization-Library](https://github.com/ahmedm0ssad/Nature-Inspired-Optimization-Library)
 
 - Python library implementing 7 metaheuristics from scratch: Hill Climbing, Simulated Annealing, Tabu Search, Bat Algorithm, Cuckoo Search (with Lévy flights), Particle Swarm Optimization (PSO), and Grey Wolf Optimizer (GWO).
 - Applied to IMDB sentiment analysis (50K reviews, TF-IDF, RandomForest): accuracy range 85.4%–86.8%.
 - Secondary application: PSO for U-Net hyperparameter tuning on CIFAR-10.
 - 3,600-line notebook refactored into installable Python package.
 
----
+</details>
 
-### G. Reinforcement Learning
-
----
+<details>
+<summary><h3>G. Reinforcement Learning</h3></summary>
 
 #### 19. DSAI 402 Reinforcement Learning — Assignment Series
 **Date:** Fall 2025 (4th Year, 6 Assignments)
-**Tech Stack:** Python, NumPy, Matplotlib, Seaborn, Gymnasium, ALE-py, OpenCV, Pandas, Jupyter, tqdm
- 
-**GitHub:**
-[RL-Algorithms-From-Scratch](https://github.com/ahmedm0ssad/RL-Algorithms-From-Scratch)
-**All algorithms implemented from scratch in pure Python/NumPy.**
+**Stack:** Python, NumPy, Matplotlib, Seaborn, Gymnasium, ALE-py, OpenCV, Pandas, Jupyter, tqdm
+**GitHub:** [RL-Algorithms-From-Scratch](https://github.com/ahmedm0ssad/RL-Algorithms-From-Scratch)
+*All algorithms implemented from scratch in pure Python/NumPy.*
 
-**Assignment 1:** Gridworld value functions — Monte Carlo estimation + iterative Bellman equations.
-**Assignment 2:** Tower of Hanoi as MDP + Gymnasium-compliant environment implementation + Policy Iteration.
-**Assignment 3:** Interactive Monte Carlo vs TD(0) animation comparing convergence.
-**Assignment 4:** Breakout (Atari) environment from scratch + full RL zoo: 4 Monte Carlo variants, 5 TD algorithms, 6 Dynamic Programming variants — trained across 2000 episodes.
-**Assignment 5:** Sutton & Barto figure replications + α–n performance heatmap over 100 runs.
-**Assignment 6:** Advanced multi-step methods and eligibility traces.
+- **Assignment 1:** Gridworld value functions — Monte Carlo estimation + iterative Bellman equations.
+- **Assignment 2:** Tower of Hanoi as MDP + Gymnasium-compliant environment implementation + Policy Iteration.
+- **Assignment 3:** Interactive Monte Carlo vs TD(0) animation comparing convergence.
+- **Assignment 4:** Breakout (Atari) environment from scratch + full RL zoo: 4 Monte Carlo variants, 5 TD algorithms, 6 Dynamic Programming variants — trained across 2000 episodes.
+- **Assignment 5:** Sutton & Barto figure replications + α–n performance heatmap over 100 runs.
+- **Assignment 6:** Advanced multi-step methods and eligibility traces.
 
 ---
 
 #### 20. 3D Drone Navigation System with Reinforcement Learning
-**Date:** January 2025 | **Language:** Python
-**Libraries:** NumPy, Matplotlib, mpl_toolkits, Tabulate, Statistics, Logging
- 
-**GitHub:**
-[3D-Drone-Navigation](https://github.com/ahmedm0ssad/3D-Drone-Navigation)
+**Date:** January 2025 · **Language:** Python
+**Stack:** NumPy, Matplotlib, mpl_toolkits, Tabulate, Statistics, Logging
+**GitHub:** [3D-Drone-Navigation](https://github.com/ahmedm0ssad/3D-Drone-Navigation)
 
 - 3D urban drone navigation simulation.
 - Implemented Hill Climbing, Simulated Annealing, and Genetic Algorithms for pathfinding.
 - Built 3D visualization tools for path rendering using Matplotlib mpl_toolkits.
 
----
+</details>
 
-### H. Deep Learning / Computer Vision
-
----
+<details>
+<summary><h3>H. Deep Learning / Computer Vision</h3></summary>
 
 #### 21. Person Tracking and Path Visualization System
-**Date:** April 2025 | **Language:** Python
-**Libraries:** ultralytics, opencv-python, numpy, scipy, sort, filterpy
- 
-**GitHub:**
-[YOLO-SORT-Person-Tracker](https://github.com/ahmedm0ssad/YOLO-SORT-Person-Tracker)
+**Date:** April 2025 · **Language:** Python
+**Stack:** ultralytics, opencv-python, numpy, scipy, sort, filterpy
+**GitHub:** [YOLO-SORT-Person-Tracker](https://github.com/ahmedm0ssad/YOLO-SORT-Person-Tracker)
 
 - Integrated state-of-the-art YOLOv12 object detection with SORT tracking algorithm for reliable person identification and tracking.
 - Implemented Kalman filtering for accurate motion prediction in complex scenarios.
@@ -473,11 +432,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 22. Image Enhancement Project for Computer Vision
-**Date:** April 2025 | **Language:** Python
-**Libraries:** OpenCV, NumPy, scikit-image, matplotlib, SciPy
- 
-**GitHub:**
-[Image-Processing-Toolkit](https://github.com/ahmedm0ssad/Image-Processing-Toolkit)
+**Date:** April 2025 · **Language:** Python
+**Stack:** OpenCV, NumPy, scikit-image, matplotlib, SciPy
+**GitHub:** [Image-Processing-Toolkit](https://github.com/ahmedm0ssad/Image-Processing-Toolkit)
 
 - Implemented robust component extraction algorithms capable of identifying and separating overlapping objects using adaptive thresholding and morphological operations.
 - Developed a blurriness correction system comparing multiple sharpening techniques (Unsharp Masking, Laplacian, Wiener Deconvolution) with application-specific parameter tuning.
@@ -488,11 +445,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 23. YOLO Object Detection and Tracking Comparison (v10 vs v11 vs v12)
-**Date:** 2023–2024 | **Language:** Python
-**Libraries:** ultralytics, opencv-python, pandas, numpy, matplotlib, seaborn, time
- 
-**GitHub:**
-[YOLO-Model-Comparison](https://github.com/ahmedm0ssad/YOLO-Model-Comparison)
+**Date:** 2023–2024 · **Language:** Python
+**Stack:** ultralytics, opencv-python, pandas, numpy, matplotlib, seaborn, time
+**GitHub:** [YOLO-Model-Comparison](https://github.com/ahmedm0ssad/YOLO-Model-Comparison)
 
 - Built a benchmarking framework comparing YOLOv10n, YOLOv11n, and YOLOv12n for real-time detection and tracking on identical video inputs.
 - Measured inference speed (ms), FPS, and tracking efficiency metrics.
@@ -502,10 +457,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 24. Content-Based Image Retrieval with SIFT Features
 **Language:** Python
-**Libraries:** OpenCV (SIFT), NumPy, scikit-learn (K-means, TF-IDF), Matplotlib, tqdm
- 
-**GitHub:**
-[SIFT-Texture-Image-Retrieval](https://github.com/ahmedm0ssad/SIFT-Texture-Image-Retrieval)
+**Stack:** OpenCV (SIFT), NumPy, scikit-learn (K-means, TF-IDF), Matplotlib, tqdm
+**GitHub:** [SIFT-Texture-Image-Retrieval](https://github.com/ahmedm0ssad/SIFT-Texture-Image-Retrieval)
 
 - CBIR system using SIFT feature extraction + Bag of Words vocabulary + TF-IDF weighting.
 - Cosine similarity for image-to-image retrieval.
@@ -516,11 +469,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 25. Fourier Transform-Based Image Processing and Filtering
-**Date:** May 2025 | **Language:** Python
-**Libraries:** cv2, numpy, matplotlib, urllib
- 
-**GitHub:**
-[Fourier-Transform-Image-Processing](https://github.com/ahmedm0ssad/Fourier-Transform-Image-Processing)
+**Date:** May 2025 · **Language:** Python
+**Stack:** cv2, numpy, matplotlib, urllib
+**GitHub:** [Fourier-Transform-Image-Processing](https://github.com/ahmedm0ssad/Fourier-Transform-Image-Processing)
 
 - Implemented frequency-domain image processing using Discrete Fourier Transform.
 - Implemented Ideal, Butterworth, and Gaussian filters for low-pass, high-pass, band-pass, and band-stop operations.
@@ -529,11 +480,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 26. Computer Vision: Spatial Domain Image Processing
-**Date:** Spring 2023 (3rd Year, Semester 2) | **Language:** Python
-**Libraries:** OpenCV (cv2), NumPy, Matplotlib
- 
-**GitHub:**
-[Spatial-Domain-Image-Processing](https://github.com/ahmedm0ssad/Spatial-Domain-Image-Processing)
+**Date:** Spring 2023 (3rd Year, Semester 2) · **Language:** Python
+**Stack:** OpenCV (cv2), NumPy, Matplotlib
+**GitHub:** [Spatial-Domain-Image-Processing](https://github.com/ahmedm0ssad/Spatial-Domain-Image-Processing)
 
 - Implemented complete suite: brightness adjustment, contrast enhancement, histogram equalization, median filtering, sharpening filters, and edge enhancement.
 - All implementations include both OpenCV built-ins and custom NumPy equivalents, showing "under the hood" behavior.
@@ -541,12 +490,10 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 27. Galaxy Morphology Classification System
-**Date:** January 2025 | **Language:** Python
-**Libraries:** TensorFlow, Keras, NumPy, Matplotlib, h5py, Pandas, scikit-learn
+**Date:** January 2025 · **Language:** Python
+**Stack:** TensorFlow, Keras, NumPy, Matplotlib, h5py, Pandas, scikit-learn
 **Tooling:** Kaggle (NVIDIA Tesla T4 GPU), Jupyter
- 
-**GitHub:**
-[Galaxy-Morphology-Classification](https://github.com/ahmedm0ssad/Galaxy-Morphology-Classification)
+**GitHub:** [Galaxy-Morphology-Classification](https://github.com/ahmedm0ssad/Galaxy-Morphology-Classification)
 
 - Transfer learning with ResNet50V2 and ResNet101V2 on the Galaxy10_DECals dataset.
 - GPU-accelerated training with hyperparameter tuning for galaxy morphology type identification.
@@ -554,11 +501,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 28. Time Series Prediction with Deep Learning Models
-**Date:** Fall 2023 | **Language:** Python
-**Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, keras-tcn
- 
-**GitHub:**
-[Time-Series-Prediction-DL](https://github.com/ahmedm0ssad/Time-Series-Prediction-DL)
+**Date:** Fall 2023 · **Language:** Python
+**Stack:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, keras-tcn
+**GitHub:** [Time-Series-Prediction-DL](https://github.com/ahmedm0ssad/Time-Series-Prediction-DL)
 
 - Designed a custom data generator to create complex waveforms with configurable noise levels.
 - Engineered a sliding window approach for sequence prediction (50 timesteps in, 1 timestep out).
@@ -571,12 +516,10 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 29. Pet Image Denoising with Convolutional Autoencoders
-**Date:** 2023 | **Language:** Python
-**Libraries:** Keras, TensorFlow, NumPy, OpenCV, scikit-learn, Matplotlib, kagglehub
+**Date:** 2023 · **Language:** Python
+**Stack:** Keras, TensorFlow, NumPy, OpenCV, scikit-learn, Matplotlib, kagglehub
 **Dataset:** Oxford-IIIT Pet Dataset
- 
-**GitHub:**
-[Pet-Image-Denoising-Autoencoder](https://github.com/ahmedm0ssad/Pet-Image-Denoising-Autoencoder)
+**GitHub:** [Pet-Image-Denoising-Autoencoder](https://github.com/ahmedm0ssad/Pet-Image-Denoising-Autoencoder)
 
 - Engineered a complete image processing workflow including resizing, normalization, and noise introduction.
 - Implemented a Convolutional Denoising Autoencoder (CDAE) architecture with convolutional, pooling, and upsampling layers.
@@ -586,12 +529,10 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 30. Siamese Neural Network for Fashion Image Similarity Detection
-**Date:** 2023 | **Language:** Python
-**Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn
+**Date:** 2023 · **Language:** Python
+**Stack:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn
 **Dataset:** Fashion-MNIST
- 
-**GitHub:**
-[Siamese-Fashion-Similarity](https://github.com/ahmedm0ssad/Siamese-Fashion-Similarity)
+**GitHub:** [Siamese-Fashion-Similarity](https://github.com/ahmedm0ssad/Siamese-Fashion-Similarity)
 
 - Implemented Siamese CNN with contrastive loss function.
 - Used L1 distance between embeddings for similarity scoring.
@@ -600,11 +541,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 31. Facial Recognition System with Deep Learning Transfer Learning
-**Date:** 2023 | **Language:** Python
-**Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, KaggleHub
- 
-**GitHub:**
-[Facial-Recognition-Transfer-Learning](https://github.com/ahmedm0ssad/Facial-Recognition-Transfer-Learning)
+**Date:** 2023 · **Language:** Python
+**Stack:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, KaggleHub
+**GitHub:** [Facial-Recognition-Transfer-Learning](https://github.com/ahmedm0ssad/Facial-Recognition-Transfer-Learning)
 
 - Transfer learning with ResNet50 and VGG16 for facial recognition.
 - Achieved approximately 79–81% accuracy.
@@ -612,11 +551,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 32. Flower Classification using Convolutional Neural Networks
-**Date:** 2023 | **Language:** Python
-**Libraries:** TensorFlow/Keras, NumPy, Matplotlib, PIL, ImageDataGenerator
- 
-**GitHub:**
-[Flower-Classification-CNN](https://github.com/ahmedm0ssad/Flower-Classification-CNN)
+**Date:** 2023 · **Language:** Python
+**Stack:** TensorFlow/Keras, NumPy, Matplotlib, PIL, ImageDataGenerator
+**GitHub:** [Flower-Classification-CNN](https://github.com/ahmedm0ssad/Flower-Classification-CNN)
 
 - Three custom CNN architectures for flower classification.
 - Data augmentation: rotation, width/height shifts, zoom, horizontal flips.
@@ -625,11 +562,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 33. Representation Learning with Autoencoders (DSAI 490 — Assignment 1)
-**Tech Stack:** Python 3.10, TensorFlow 2.15, Keras, tf.data, NumPy, scikit-learn, Matplotlib, Pillow, pandas, tqdm, tensorflow-probability, pytest, Conda, Kaggle GPU
+**Stack:** Python 3.10, TensorFlow 2.15, Keras, tf.data, NumPy, scikit-learn, Matplotlib, Pillow, pandas, tqdm, tensorflow-probability, pytest, Conda, Kaggle GPU
 **Dataset:** Medical MNIST (~58K images, 6 modalities)
- 
-**GitHub:**
-[AutoEncoder-VariationalAutoEncoder](https://github.com/ahmedm0ssad/AutoEncoder-VariationalAutoEncoder)
+**GitHub:** [AutoEncoder-VariationalAutoEncoder](https://github.com/ahmedm0ssad/AutoEncoder-VariationalAutoEncoder)
 
 - Implemented three autoencoder architectures: BasicAE (val MSE: 0.00838), DenoisingAE (val MSE: 0.00183, best), CVAE (posterior collapse diagnosed after epoch 2).
 - t-SNE and PCA analysis of latent space representations.
@@ -638,40 +573,33 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 34. Conditional Date Synthesis with Deep Generative Models (DSAI 490 — Assignment 2)
-**Tech Stack:** Python 3.10, PyTorch 2.5.1, CUDA 11.8, Kaggle GPU
+**Stack:** Python 3.10, PyTorch 2.5.1, CUDA 11.8, Kaggle GPU
 **Architectures:** WGAN-GP, Conditional VAE (CVAE), Discrete Diffusion, Transformer Seq2Seq
 **Techniques:** Gumbel-Softmax, spectral normalization, AdamW, NumPy, Matplotlib, scikit-learn
- 
-**GitHub:**
-[Generative-Date-Synthesis](https://github.com/ahmedm0ssad/Generative-Date-Synthesis)
+**GitHub:** [Generative-Date-Synthesis](https://github.com/ahmedm0ssad/Generative-Date-Synthesis)
 
 - Four generative architectures for calendar date synthesis conditioned on day-of-week, month, leap-year, and decade.
 - WGAN-GP: best overall (47.58% Condition Pass Rate, 100% month accuracy, 75.63% leap-year accuracy).
 - CVAE: 31.48% CPR; Discrete Diffusion: 34.04% CPR; Transformer Seq2Seq: 24.52% CPR (mode collapse observed).
 
----
+</details>
 
-### I. Classical Machine Learning
-
----
+<details>
+<summary><h3>I. Classical Machine Learning</h3></summary>
 
 #### 35. Statistical Inference for Diabetes Dataset Analysis
-**Date:** January 2025 | **Language:** R
-**Libraries:** ggplot2, data.table, corrplot, dplyr
- 
-**GitHub:**
-[Statistical-Inference-Diabetes](https://github.com/ahmedm0ssad/Statistical-Inference-Diabetes)
+**Date:** January 2025 · **Language:** R
+**Stack:** ggplot2, data.table, corrplot, dplyr
+**GitHub:** [Statistical-Inference-Diabetes](https://github.com/ahmedm0ssad/Statistical-Inference-Diabetes)
 
 - Statistical inference, correlation analysis, and comprehensive data visualization on a diabetes dataset.
 
 ---
 
 #### 36. Central Limit Theorem Simulation and Analysis
-**Date:** 2025 | **Languages:** R and Python (parallel implementations)
-**Libraries (R):** ggplot2, gridExtra | **Libraries (Python):** numpy, matplotlib, seaborn
- 
-**GitHub:**
-[Central-Limit-Theorem-Demo](https://github.com/ahmedm0ssad/Central-Limit-Theorem-Demo)
+**Date:** 2025 · **Languages:** R and Python (parallel implementations)
+**Stack (R):** ggplot2, gridExtra · **Stack (Python):** numpy, matplotlib, seaborn
+**GitHub:** [Central-Limit-Theorem-Demo](https://github.com/ahmedm0ssad/Central-Limit-Theorem-Demo)
 
 - Designed parallel implementations in both R and Python, showcasing programming versatility.
 - Generated 1,500 random samples across sample sizes n=10, 50, 100.
@@ -682,23 +610,19 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 37. Health Data Analysis and Prediction Using Machine Learning Models
-**Date:** May 2024 | **Language:** Python
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+**Date:** May 2024 · **Language:** Python
+**Stack:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 **Tooling:** Jupyter, Google Colab, Kaggle
- 
-**GitHub:**
-[Health-Data-Prediction-ML](https://github.com/ahmedm0ssad/Health-Data-Prediction-ML)
+**GitHub:** [Health-Data-Prediction-ML](https://github.com/ahmedm0ssad/Health-Data-Prediction-ML)
 
 - Implemented and compared KNN, SVM, Logistic Regression, Linear Regression, and Neural Networks on a health dataset.
 
 ---
 
 #### 38. Titanic Survival Prediction with Naive Bayes Classifier
-**Date:** Spring 2024 | **Language:** Python
-**Libraries:** pandas, numpy, scikit-learn (GaussianNB), StandardScaler, confusion_matrix
- 
-**GitHub:**
-[Titanic-Naive-Bayes](https://github.com/ahmedm0ssad/Titanic-Naive-Bayes)
+**Date:** Spring 2024 · **Language:** Python
+**Stack:** pandas, numpy, scikit-learn (GaussianNB), StandardScaler, confusion_matrix
+**GitHub:** [Titanic-Naive-Bayes](https://github.com/ahmedm0ssad/Titanic-Naive-Bayes)
 
 - Engineered meaningful features from raw passenger data: family size, title extraction.
 - Implemented systematic data preprocessing workflow to handle missing values.
@@ -710,11 +634,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 39. Neural Network from Scratch — Logistic Regression for Heart Disease
-**Date:** Spring 2024 | **Language:** Python
-**Libraries:** numpy, pandas, sklearn
- 
-**GitHub:**
-[Neural-Network-From-Scratch](https://github.com/ahmedm0ssad/Neural-Network-From-Scratch)
+**Date:** Spring 2024 · **Language:** Python
+**Stack:** numpy, pandas, sklearn
+**GitHub:** [Neural-Network-From-Scratch](https://github.com/ahmedm0ssad/Neural-Network-From-Scratch)
 
 - Implemented logistic regression from scratch: sigmoid activation, binary cross-entropy loss, gradient descent.
 - Results: 85.2% accuracy, 87.1% precision, 84.4% recall, 85.7% F1 score.
@@ -722,11 +644,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 40. Support Vector Machine Clustering Analysis
-**Date:** Spring 2024 | **Language:** Python
-**Libraries:** scikit-learn, pandas, numpy, matplotlib
- 
-**GitHub:**
-[SVM-Clustering-Analysis](https://github.com/ahmedm0ssad/SVM-Clustering-Analysis)
+**Date:** Spring 2024 · **Language:** Python
+**Stack:** scikit-learn, pandas, numpy, matplotlib
+**GitHub:** [SVM-Clustering-Analysis](https://github.com/ahmedm0ssad/SVM-Clustering-Analysis)
 
 - Applied SVM with RBF kernels to 6 clustering benchmark datasets: Aggregation, Compound, Flame, Jain, Pathbased, Spiral.
 - Gamma and C hyperparameter tuning experiments across all datasets.
@@ -734,11 +654,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 41. Linear Regression and Classification from Scratch with Dimensionality Reduction
-**Date:** May 2025 | **Language:** Python
-**Libraries:** numpy, pandas, matplotlib, seaborn, scikit-learn
- 
-**GitHub:**
-[Linear-Regression-From-Scratch](https://github.com/ahmedm0ssad/Linear-Regression-From-Scratch)
+**Date:** May 2025 · **Language:** Python
+**Stack:** numpy, pandas, matplotlib, seaborn, scikit-learn
+**GitHub:** [Linear-Regression-From-Scratch](https://github.com/ahmedm0ssad/Linear-Regression-From-Scratch)
 
 - Implemented Normal Equation linear regression.
 - Binary classification on Iris dataset.
@@ -748,11 +666,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 42. K-Nearest Neighbors (KNN) from Scratch for Iris Dataset
-**Date:** Spring 2025 | **Language:** Python
-**Libraries:** numpy, pandas, matplotlib, scikit-learn, collections.Counter
- 
-**GitHub:**
-[KNN-From-Scratch](https://github.com/ahmedm0ssad/KNN-From-Scratch)
+**Date:** Spring 2025 · **Language:** Python
+**Stack:** numpy, pandas, matplotlib, scikit-learn, collections.Counter
+**GitHub:** [KNN-From-Scratch](https://github.com/ahmedm0ssad/KNN-From-Scratch)
 
 - Custom KNN implementation with Euclidean distance and majority voting.
 - Compared K=3, K=5, K=7.
@@ -761,10 +677,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 43. Adam Optimization Algorithm Implementation
-**Date:** January 2025 | **Language:** Python
- 
-**GitHub:**
-[Adam-Optimization-Implementation](https://github.com/ahmedm0ssad/Adam-Optimization-Implementation)
+**Date:** January 2025 · **Language:** Python
+**GitHub:** [Adam-Optimization-Implementation](https://github.com/ahmedm0ssad/Adam-Optimization-Implementation)
 
 - Implemented the Adam optimizer from scratch to minimize a quadratic objective function.
 - Parameter tuning (β1, β2, ε, learning rate) and convergence verification.
@@ -772,11 +686,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 44. 1D and Multidimensional Optimization Algorithms
-**Date:** January 2025 | **Language:** Python
-**Libraries:** numpy, scipy.optimize, warnings, time
- 
-**GitHub:**
-[Optimization-Algorithms](https://github.com/ahmedm0ssad/Optimization-Algorithms)
+**Date:** January 2025 · **Language:** Python
+**Stack:** numpy, scipy.optimize, warnings, time
+**GitHub:** [Optimization-Algorithms](https://github.com/ahmedm0ssad/Optimization-Algorithms)
 
 - Implemented: Fibonacci Search, Golden Section Search, Newton's Method, Quasi-Newton (BFGS), Secant Method, Fletcher-Reeves Conjugate Gradient, Marquardt (Levenberg-Marquardt).
 - Tested on Rosenbrock's function and Powell's function.
@@ -785,11 +697,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 45. Revised Simplex Method Implementation
-**Date:** January 2025 | **Language:** Python
-**Libraries:** numpy, scipy.optimize.linprog, dataclasses, typing
- 
-**GitHub:**
-[Revised-Simplex-Method](https://github.com/ahmedm0ssad/Revised-Simplex-Method)
+**Date:** January 2025 · **Language:** Python
+**Stack:** numpy, scipy.optimize.linprog, dataclasses, typing
+**GitHub:** [Revised-Simplex-Method](https://github.com/ahmedm0ssad/Revised-Simplex-Method)
 
 - Implemented the Revised Simplex Method for linear programming.
 - Handles two-phase problems, unbounded solutions, and infeasibility detection.
@@ -798,27 +708,22 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 46. Fuel Consumption Analysis
-**Date:** May 2024 | **Language:** Python
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
- 
-**GitHub:**
-[Fuel-Consumption-Analysis](https://github.com/ahmedm0ssad/Fuel-Consumption-Analysis)
+**Date:** May 2024 · **Language:** Python
+**Stack:** Pandas, NumPy, Matplotlib, Seaborn
+**GitHub:** [Fuel-Consumption-Analysis](https://github.com/ahmedm0ssad/Fuel-Consumption-Analysis)
 
 - Conducted data cleaning, validation, and analysis on vehicle fuel consumption datasets to evaluate fuel efficiency and greenhouse gas emissions.
 - Leveraged Python libraries (Pandas, NumPy) to process and analyze large datasets, identifying trends and actionable insights.
 - Visualized key findings to support data-driven decision-making, showcasing proficiency in exploratory data analysis.
 
----
+</details>
 
-### J. Data Compression / Information Theory (DSAI 325 — Java)
-
----
+<details>
+<summary><h3>J. Data Compression / Information Theory (DSAI 325 — Java)</h3></summary>
 
 #### 47. Adaptive Huffman Coding Algorithm Implementation
 **Language:** Java
- 
-**GitHub:**
-[Adaptive-Huffman-Coding](https://github.com/ahmedm0ssad/Adaptive-Huffman-Coding)
+**GitHub:** [Adaptive-Huffman-Coding](https://github.com/ahmedm0ssad/Adaptive-Huffman-Coding)
 
 - Implemented Adaptive Huffman coding with dynamic tree construction.
 - Components: Encoder, Decoder, NYT (Not Yet Transmitted) nodes.
@@ -827,11 +732,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 48. Color Vector Quantization Image Compression System
-**Date:** April 2025 | **Language:** Java
-**Libraries:** java.util.concurrent, java.io, java.util.logging, java.awt.image
- 
-**GitHub:**
-[Color-Vector-Quantization](https://github.com/ahmedm0ssad/Color-Vector-Quantization)
+**Date:** April 2025 · **Language:** Java
+**Stack:** java.util.concurrent, java.io, java.util.logging, java.awt.image
+**GitHub:** [Color-Vector-Quantization](https://github.com/ahmedm0ssad/Color-Vector-Quantization)
 
 - Implemented the LBG (Linde-Buzo-Gray) algorithm for RGB color image vector quantization.
 - Multithreading support, early termination, 2×2 pixel block processing.
@@ -840,11 +743,9 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 49. Vector Quantization Image Compression System
-**Date:** 2023 | **Language:** Java
-**Libraries:** java.awt, javax.imageio, java.io
- 
-**GitHub:**
-[Vector-Quantization-Compression](https://github.com/ahmedm0ssad/Vector-Quantization-Compression)
+**Date:** 2023 · **Language:** Java
+**Stack:** java.awt, javax.imageio, java.io
+**GitHub:** [Vector-Quantization-Compression](https://github.com/ahmedm0ssad/Vector-Quantization-Compression)
 
 - LBG + K-means for lossy image compression.
 - Configurable block sizes.
@@ -853,10 +754,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 50. 2-D Feed Backward Predictive Coding for Image Compression
-**Date:** April 2025 | **Language:** Java
- 
-**GitHub:**
-[Predictive-Coding-Compression](https://github.com/ahmedm0ssad/Predictive-Coding-Compression)
+**Date:** April 2025 · **Language:** Java
+**GitHub:** [Predictive-Coding-Compression](https://github.com/ahmedm0ssad/Predictive-Coding-Compression)
 
 - Implemented three predictor types: Order-1, Order-2, and Adaptive (gradient-based).
 - 98% reconstruction accuracy.
@@ -867,10 +766,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 51. LZ78 Compression Algorithm Implementation
 **Language:** Java
-**Libraries:** java.io, java.util
- 
-**GitHub:**
-[LZ78-Compression](https://github.com/ahmedm0ssad/LZ78-Compression)
+**Stack:** java.io, java.util
+**GitHub:** [LZ78-Compression](https://github.com/ahmedm0ssad/LZ78-Compression)
 
 - LZ78 lossless compression with dictionary-based pattern matching.
 - Dynamic bit allocation and binary encoding/decoding.
@@ -879,10 +776,8 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 52. LZ77 Compression Algorithm Implementation
 **Languages:** Java and Python
-**Libraries (Java):** java.io, java.nio, java.util.regex | **Libraries (Python):** re, os
- 
-**GitHub:**
-[LZ77-Compression](https://github.com/ahmedm0ssad/LZ77-Compression)
+**Stack (Java):** java.io, java.nio, java.util.regex · **Stack (Python):** re, os
+**GitHub:** [LZ77-Compression](https://github.com/ahmedm0ssad/LZ77-Compression)
 
 - LZ77 with 4096-byte sliding window in both Java and Python.
 - Tuple-based encoding (offset, length, next_char).
@@ -891,45 +786,37 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 53. Huffman Coding Data Compression System
-**Date:** 2024–2025 | **Language:** Java
-**Libraries:** java.io, java.util (PriorityQueue, HashMap), java.nio.file, BitSet
- 
-**GitHub:**
-[Huffman-Compression](https://github.com/ahmedm0ssad/Huffman-Compression)
+**Date:** 2024–2025 · **Language:** Java
+**Stack:** java.io, java.util (PriorityQueue, HashMap), java.nio.file, BitSet
+**GitHub:** [Huffman-Compression](https://github.com/ahmedm0ssad/Huffman-Compression)
 
 - Complete Huffman implementation with entropy analysis.
 - Code table persistence for reuse.
 - Binary file handling.
 
----
+</details>
 
-### K. Systems / Networking
-
----
+<details>
+<summary><h3>K. Systems / Networking</h3></summary>
 
 #### 54. Network File Transfer and Communication System
-**Date:** May 2024 | **Language:** Python
-**Libraries:** socket, struct, time, matplotlib, select
- 
-**GitHub:**
-[Network-File-Transfer-System](https://github.com/ahmedm0ssad/Network-File-Transfer-System)
+**Date:** May 2024 · **Language:** Python
+**Stack:** socket, struct, time, matplotlib, select
+**GitHub:** [Network-File-Transfer-System](https://github.com/ahmedm0ssad/Network-File-Transfer-System)
 
 - Implemented both UDP and TCP file transfer protocols.
 - Retransmission handling and acknowledgment mechanisms for UDP.
 - Performance metrics visualization with matplotlib.
 
----
+</details>
 
-### L. Data Collection / Miscellaneous
-
----
+<details>
+<summary><h3>L. Data Collection / Miscellaneous</h3></summary>
 
 #### 55. YouTube Video Search and Analysis
-**Date:** January 2024 | **Language:** Python
-**Libraries:** serpapi, requests, BeautifulSoup (bs4), html5lib
- 
-**GitHub:**
-[YouTube-Video-Search-Analysis](https://github.com/ahmedm0ssad/YouTube-Video-Search-Analysis)
+**Date:** January 2024 · **Language:** Python
+**Stack:** serpapi, requests, BeautifulSoup (bs4), html5lib
+**GitHub:** [YouTube-Video-Search-Analysis](https://github.com/ahmedm0ssad/YouTube-Video-Search-Analysis)
 
 - YouTube video search via SerpAPI.
 - Extract video metadata, identify most frequent channels, download thumbnails.
@@ -937,18 +824,18 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 ---
 
 #### 56. Image Featuring & Labeling
-**Date:** January 2024 | **Language:** Python
-**Libraries:** requests, beautifulsoup4, google-search-results, opencv-python, numpy, matplotlib, dlib
- 
-**GitHub:**
-[Image-Featuring-Labeling](https://github.com/ahmedm0ssad/Image-Featuring-Labeling)
+**Date:** January 2024 · **Language:** Python
+**Stack:** requests, beautifulsoup4, google-search-results, opencv-python, numpy, matplotlib, dlib
+**GitHub:** [Image-Featuring-Labeling](https://github.com/ahmedm0ssad/Image-Featuring-Labeling)
 
 - Data acquisition pipeline with web scraping.
 - Image processing and facial landmark detection using dlib.
 
+</details>
+
 ---
 
-## CERTIFICATIONS
+## Certifications
 
 - **AI Fluency: Framework & Foundations** — Anthropic Academy (2026)
   AI fluency and foundations credential for working effectively with large language model systems.
@@ -956,26 +843,24 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-## ACTIVITIES
+## Activities
 
-### Event Coordinator — Khair ZC, Zewail City
-**February 2023 – June 2023**
+**Event Coordinator — Khair ZC, Zewail City**
+*February 2023 – June 2023*
 - Led logistics and operations for large charity events.
 - Developed stakeholder communication, teamwork, and organizational skills.
 
-### Member — Service Union, Zewail City
-**October 2022 – February 2023**
+**Member — Service Union, Zewail City**
+*October 2022 – February 2023*
 - Collaborated on campus community projects; demonstrated initiative and responsibility in a team environment.
 
 ---
 
-## LANGUAGES
+## Languages
 
 - **Arabic:** Native
 - **English:** Professional working proficiency
 
 ---
 
-*Total projects: 56 (including Smart Triangle listed separately as Graduation Project)*
-*CV template: Jake's Resume (Overleaf / pdfLaTeX)*
-
+<sub>Total projects: 56 (including Smart Triangle listed separately as Graduation Project) · CV template: Jake's Resume (Overleaf / pdfLaTeX)</sub>
