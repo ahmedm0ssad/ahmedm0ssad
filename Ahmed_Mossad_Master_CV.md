@@ -854,6 +854,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 59. Image Featuring & Labeling
 **Date:** January 2024 | **Language:** Python
 **Libraries:** requests, beautifulsoup4, google-search-results, opencv-python, numpy, matplotlib, dlib
+**GitHub:** [Image-Featuring-Labeling](https://github.com/ahmedm0ssad/Image-Featuring-Labeling)
 
 - Data acquisition pipeline with web scraping.
 - Image processing and facial landmark detection using dlib.
