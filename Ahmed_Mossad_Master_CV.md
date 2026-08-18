@@ -695,6 +695,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 45. 1D and Multidimensional Optimization Algorithms
 **Date:** January 2025 | **Language:** Python
 **Libraries:** numpy, scipy.optimize, warnings, time
+**GitHub:** [Optimization-Algorithms](https://github.com/ahmedm0ssad/Optimization-Algorithms)
 
 - Implemented: Fibonacci Search, Golden Section Search, Newton's Method, Quasi-Newton (BFGS), Secant Method, Fletcher-Reeves Conjugate Gradient, Marquardt (Levenberg-Marquardt).
 - Tested on Rosenbrock's function and Powell's function.
