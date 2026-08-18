@@ -148,10 +148,10 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 ---
 
-#### 2. Local RAG-Powered Document Assistant (Jarvis)
+#### 2. Local RAG-Powered Document Assistant
 **Date:** 2025 | **Language:** Python
 **Libraries:** torch, transformers, sentence_transformers, chromadb, streamlit, tree-sitter, llama_index / LlamaIndex
-**GitHub:** [Jarvis](https://github.com/ahmedm0ssad/Jarvis)
+**GitHub:** [Local-RAG-Document-Assistant](https://github.com/ahmedm0ssad/Local-RAG-Document-Assistant)
 
 - Designed multi-format document processing system with specialized extraction for different file types.
 - Implemented semantic code analysis with structural parsing capabilities for multiple programming languages.
@@ -166,7 +166,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 3. arXiv RAG Web Application
 **Date:** 2024 | **Language:** Python
 **Libraries:** Flask, FAISS, Sentence-Transformers, Google Generative AI (Gemini), PyTorch, pandas, numpy, tqdm
-**GitHub:** [arxiv-rag-webapp](https://github.com/ahmedm0ssad/arxiv-rag-webapp)
+**GitHub:** [Arxiv-RAG-Webapp](https://github.com/ahmedm0ssad/Arxiv-RAG-Webapp)
 
 - Designed a comprehensive text normalization system optimized for scientific/academic content.
 - Engineered prompt templates for effective context integration with LLM responses.
@@ -180,7 +180,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 4. RAG System with ML Intelligence (CSAI 302 — Advanced Database)
 **Date:** 2024–2025 | **Language:** Python
 **Stack:** Sentence Transformers (all-MiniLM-L6-v2), ChromaDB, Google Gemini API, XGBoost, scikit-learn, Streamlit, Plotly, Pydantic, Loguru, JSONL feedback system
-**GitHub:** [RAG-ADB](https://github.com/ahmedm0ssad/RAG-ADB)
+**GitHub:** [RAG-Optimization-System](https://github.com/ahmedm0ssad/RAG-Optimization-System)
 
 - End-to-end RAG system with five-layer pipeline: ingestion, embedding, vector DB, retrieval, generation.
 - Included Streamlit UI, feedback system (JSONL), and ML optimization layer with XGBoost-based ParameterOptimizer, DifficultyPredictor, and QualityPredictor.
@@ -227,7 +227,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 7. NYC Taxi Trip Duration & Telco Churn Analysis (DSAI 427)
 **Date:** 2024–2025 | **Language:** Python (PySpark)
 **Stack:** Apache Spark 3.5.8, PySpark, Spark SQL, Spark MLlib, Parquet, pandas, NumPy, Kaggle
-**GitHub:** [Data-Analysis-Spark](https://github.com/ahmedm0ssad/Data-Analysis-Spark)
+**GitHub:** [NYC-Taxi-Spark-Analysis](https://github.com/ahmedm0ssad/NYC-Taxi-Spark-Analysis)
 
 - Spark analytics on 1.46M NYC taxi records (cleaned to 1.275M).
 - Implemented ten analytical queries across RDD, DataFrame, and Spark SQL APIs.
@@ -324,7 +324,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 15. DSAI 456 Speech Recognition — Course Project Series
 **Date:** 2024–2025 (6 Assignments) | ZC-UST
 **Stack:** Python, PyTorch, librosa, NumPy, SciPy, Matplotlib, Seaborn, hmmlearn, pytest, GitHub Actions, TIMIT, VCTK, MFCC, Mel spectrograms, FFT/STFT, LPC, GMM, EM algorithm, HMM, CTC loss, Bidirectional LSTM, Viterbi algorithm, Forward algorithm, beam search, black, flake8, mypy
-**GitHub:** [Speech-Recognition-Course](https://github.com/ahmedm0ssad/Speech-Recognition-Course)
+**GitHub:** [Speech-Recognition-Pipeline](https://github.com/ahmedm0ssad/Speech-Recognition-Pipeline)
 
 **Assignment 1:** RMS/pitch analysis package with CI/CD (GitHub Actions).
 **Assignment 2:** FFT/STFT spectrogram pipeline; frequency-domain analysis.
@@ -398,7 +398,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 20. DSAI 402 Reinforcement Learning — Assignment Series
 **Date:** Fall 2025 (4th Year, 6 Assignments)
 **Tech Stack:** Python, NumPy, Matplotlib, Seaborn, Gymnasium, ALE-py, OpenCV, Pandas, Jupyter, tqdm
-**GitHub:** [Reinforcement-Learning-Course](https://github.com/ahmedm0ssad/Reinforcement-Learning-Course)
+**GitHub:** [RL-Algorithms-From-Scratch](https://github.com/ahmedm0ssad/RL-Algorithms-From-Scratch)
 **All algorithms implemented from scratch in pure Python/NumPy.**
 
 **Assignment 1:** Gridworld value functions — Monte Carlo estimation + iterative Bellman equations.
@@ -428,7 +428,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 22. Person Tracking and Path Visualization System
 **Date:** April 2025 | **Language:** Python
 **Libraries:** ultralytics, opencv-python, numpy, scipy, sort, filterpy
-**GitHub:** [person-tracker-sort](https://github.com/ahmedm0ssad/person-tracker-sort)
+**GitHub:** [YOLO-SORT-Person-Tracker](https://github.com/ahmedm0ssad/YOLO-SORT-Person-Tracker)
 
 - Integrated state-of-the-art YOLOv12 object detection with SORT tracking algorithm for reliable person identification and tracking.
 - Implemented Kalman filtering for accurate motion prediction in complex scenarios.
@@ -479,7 +479,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 26. Fourier Transform-Based Image Processing and Filtering
 **Date:** May 2025 | **Language:** Python
 **Libraries:** cv2, numpy, matplotlib, urllib
-**GitHub:** [fourier-transform-image-processing](https://github.com/ahmedm0ssad/fourier-transform-image-processing)
+**GitHub:** [Fourier-Transform-Image-Processing](https://github.com/ahmedm0ssad/Fourier-Transform-Image-Processing)
 
 - Implemented frequency-domain image processing using Discrete Fourier Transform.
 - Implemented Ideal, Butterworth, and Gaussian filters for low-pass, high-pass, band-pass, and band-stop operations.
@@ -606,7 +606,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 37. Central Limit Theorem Simulation and Analysis
 **Date:** 2025 | **Languages:** R and Python (parallel implementations)
 **Libraries (R):** ggplot2, gridExtra | **Libraries (Python):** numpy, matplotlib, seaborn
-**GitHub:** [central-limit-theorem-demo](https://github.com/ahmedm0ssad/central-limit-theorem-demo)
+**GitHub:** [Central-Limit-Theorem-Demo](https://github.com/ahmedm0ssad/Central-Limit-Theorem-Demo)
 
 - Designed parallel implementations in both R and Python, showcasing programming versatility.
 - Generated 1,500 random samples across sample sizes n=10, 50, 100.

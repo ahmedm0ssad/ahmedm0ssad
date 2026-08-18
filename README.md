@@ -19,11 +19,11 @@ I build production-grade AI applications and the backend systems behind them —
 ## Featured projects
 
 - **[flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)** — embeddable lead-capture platform with multi-tenant FastAPI, background jobs, and 100%-coverage test suite.
-- **[arxiv-rag-webapp](https://github.com/ahmedm0ssad/arxiv-rag-webapp)** — RAG assistant for CS papers using FAISS + Google Gemini.
+- **[Arxiv-RAG-Webapp](https://github.com/ahmedm0ssad/Arxiv-RAG-Webapp)** — RAG assistant for CS papers using FAISS + Google Gemini.
 - **[Real-Time-Recommendation-System](https://github.com/ahmedm0ssad/Real-Time-Recommendation-System)** — Kafka + Spark Structured Streaming + ALS end-to-end recommendation system (RMSE 0.8705).
 - **[LLM-Optimization](https://github.com/ahmedm0ssad/LLM-Optimization)** — LLM benchmarking, quantization, and fine-tuning framework.
-- **[RAG-ADB](https://github.com/ahmedm0ssad/RAG-ADB)** — end-to-end RAG system with an ML optimization layer (CSAI 302).
-- **[person-tracker-sort](https://github.com/ahmedm0ssad/person-tracker-sort)** — YOLOv12 + SORT person tracking with Kalman filtering and path visualization.
+- **[RAG-Optimization-System](https://github.com/ahmedm0ssad/RAG-Optimization-System)** — end-to-end RAG system with an ML optimization layer (CSAI 302).
+- **[YOLO-SORT-Person-Tracker](https://github.com/ahmedm0ssad/YOLO-SORT-Person-Tracker)** — YOLOv12 + SORT person tracking with Kalman filtering and path visualization.
 - **[SIFT-Texture-Image-Retrieval](https://github.com/ahmedm0ssad/SIFT-Texture-Image-Retrieval)** — content-based image retrieval with SIFT, BoW, and TF-IDF.
 - **[YOLO-Model-Comparison](https://github.com/ahmedm0ssad/YOLO-Model-Comparison)** — benchmarking YOLOv10n/v11n/v12n detection and tracking.
 
