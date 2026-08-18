@@ -761,6 +761,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 51. Vector Quantization Image Compression System
 **Date:** 2023 | **Language:** Java
 **Libraries:** java.awt, javax.imageio, java.io
+**GitHub:** [Vector-Quantization-Compression](https://github.com/ahmedm0ssad/Vector-Quantization-Compression)
 
 - LBG + K-means for lossy image compression.
 - Configurable block sizes.
