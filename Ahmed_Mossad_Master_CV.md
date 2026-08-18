@@ -739,6 +739,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 49. Adaptive Huffman Coding Algorithm Implementation
 **Language:** Java
+**GitHub:** [Adaptive-Huffman-Coding](https://github.com/ahmedm0ssad/Adaptive-Huffman-Coding)
 
 - Implemented Adaptive Huffman coding with dynamic tree construction.
 - Components: Encoder, Decoder, NYT (Not Yet Transmitted) nodes.
