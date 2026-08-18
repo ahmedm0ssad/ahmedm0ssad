@@ -33,7 +33,7 @@ AI Engineer with a B.Sc. in Data Science & AI in progress and hands-on FastAPI, 
 - Building familiarity with the JavaScript/TypeScript ecosystem and modern web application architecture.
 
 ### Programming Instructor — GEEK CODE
-**Jun 2026 – Present | Remote**
+**Jun 2026 – Jul 2026 | Remote**
 
 - Deliver one-to-one programming instruction for students aged 12–15 in Python and Scratch, adapting explanations and learning activities to each student's skill level and learning pace.
 - Teach core programming concepts including variables, conditionals, loops, functions, problem-solving, and project-based development through interactive sessions.
