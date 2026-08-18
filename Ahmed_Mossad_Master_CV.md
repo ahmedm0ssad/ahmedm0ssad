@@ -551,6 +551,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 32. Facial Recognition System with Deep Learning Transfer Learning
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, KaggleHub
+**GitHub:** [Facial-Recognition-Transfer-Learning](https://github.com/ahmedm0ssad/Facial-Recognition-Transfer-Learning)
 
 - Transfer learning with ResNet50 and VGG16 for facial recognition.
 - Achieved approximately 79–81% accuracy.
