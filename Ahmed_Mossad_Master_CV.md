@@ -283,6 +283,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 12. Data Visualization and Analysis Web Application
 **Date:** January 2024 | **Language:** Python
 **Stack:** Flask, Pandas, SQLAlchemy, SQLite
+**GitHub:** [Data-Visualization-Web-App](https://github.com/ahmedm0ssad/Data-Visualization-Web-App)
 
 - Built a Flask-based web app to analyze and visualize sales and profit data from a global retail dataset.
 - Processed and queried data using Pandas and SQLAlchemy, storing results in an SQLite database.
