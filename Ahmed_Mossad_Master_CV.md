@@ -272,6 +272,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 
 #### 11. Education Management System
 **Date:** January 2024 | **Languages:** HTML/CSS/JavaScript, C# (ASP.NET Core)
+**GitHub:** [Education-Management-System](https://github.com/ahmedm0ssad/Education-Management-System)
 
 - Designed and implemented a responsive web application for managing courses, instructors, and student interactions using ASP.NET Core and HTML/CSS/JavaScript.
 - Developed dynamic pages for course details, instructor profiles, and student enrollment, ensuring seamless user experience.
