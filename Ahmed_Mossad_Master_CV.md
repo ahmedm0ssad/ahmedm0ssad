@@ -750,6 +750,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 #### 50. Color Vector Quantization Image Compression System
 **Date:** April 2025 | **Language:** Java
 **Libraries:** java.util.concurrent, java.io, java.util.logging, java.awt.image
+**GitHub:** [Color-Vector-Quantization](https://github.com/ahmedm0ssad/Color-Vector-Quantization)
 
 - Implemented the LBG (Linde-Buzo-Gray) algorithm for RGB color image vector quantization.
 - Multithreading support, early termination, 2×2 pixel block processing.
