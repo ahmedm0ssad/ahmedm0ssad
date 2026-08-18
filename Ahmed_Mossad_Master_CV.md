@@ -540,6 +540,7 @@ Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Proje
 **Date:** 2023 | **Language:** Python
 **Libraries:** TensorFlow/Keras, NumPy, Matplotlib, scikit-learn
 **Dataset:** Fashion-MNIST
+**GitHub:** [Siamese-Fashion-Similarity](https://github.com/ahmedm0ssad/Siamese-Fashion-Similarity)
 
 - Implemented Siamese CNN with contrastive loss function.
 - Used L1 distance between embeddings for similarity scoring.
