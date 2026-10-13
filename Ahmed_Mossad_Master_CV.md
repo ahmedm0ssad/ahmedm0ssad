@@ -47,7 +47,7 @@ AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, 
 **Jul 2026 – Sep 2026** · Chicago, IL, USA · Remote · Backend AI Track
 
 **GitHub:** [flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)
-**Certificate:** [AI Backend Engineering](https://internship.flyrank.ai/api/documents/eafbe14e-c906-4eb4-b727-56bb016ca19c/pdf#navpanes=0&pagemode=none)
+**Certificates:** [AI Backend Engineering](https://drive.google.com/file/d/11PbVjQyK1mTZYbXazU9ty5Oi6KDFKLg5/view?usp=sharing) | [AI Fluency](https://drive.google.com/file/d/1XZUrMKdy5nHsrKH75P_dAZx9_ukqKUnt/view?usp=sharing)
 
 - Built an embeddable widget and lead-capture platform in FastAPI: tenant-isolated widget CRUD, embeddable versioned JS bundle with immutable HTTP cache headers, and cache-busting on widget update.
 - Designed a defense-in-depth public submission pipeline — Pydantic boundary validation, CORS/preflight handling, 3-tier rate limiting (429 + Retry-After), origin checks, honeypot and heuristic spam scoring, and fingerprint dedup.
@@ -876,11 +876,11 @@ Graduated: June 2026
 
 - **AI Fluency Internship** — FlyRank (2026)
   Completed AI Fluency internship focusing on LLM fundamentals, prompt engineering, and AI system evaluation.
-  [Certificate](https://internship.flyrank.ai/api/documents/c2b98b88-b82e-43e1-bf66-3f88fb7375a1/pdf#navpanes=0&pagemode=none)
+  [Certificate](https://drive.google.com/file/d/1XZUrMKdy5nHsrKH75P_dAZx9_ukqKUnt/view?usp=sharing)
 
 - **AI Backend Engineering Internship** — FlyRank (2026)
   Completed AI Backend Engineering internship building production-grade FastAPI backend with LLM inference, RAG pipelines, and async job processing.
-  [Certificate](https://internship.flyrank.ai/api/documents/eafbe14e-c906-4eb4-b727-56bb016ca19c/pdf#navpanes=0&pagemode=none)
+  [Certificate](https://drive.google.com/file/d/11PbVjQyK1mTZYbXazU9ty5Oi6KDFKLg5/view?usp=sharing)
 
 ---
 
