@@ -56,7 +56,7 @@ AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, 
 **Jul 2026 – Sep 2026** · Chicago, IL, USA · Remote · Backend AI Track
 
 **GitHub:** [flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)
-**Certificates:** [AI Backend Engineering](https://drive.google.com/file/d/11PbVjQyK1mTZYbXazU9ty5Oi6KDFKLg5/view?usp=sharing) | [AI Fluency](https://drive.google.com/file/d/1XZUrMKdy5nHsrKH75P_dAZx9_ukqKUnt/view?usp=sharing)
+**Certificates:** [AI Backend Engineering](https://drive.google.com/file/d/11PbVjQyK1mTZYbXazU9ty5Oi6KDFKLg5/view?usp=sharing)
 
 - Built an embeddable widget and lead-capture platform in FastAPI: tenant-isolated widget CRUD, embeddable versioned JS bundle with immutable HTTP cache headers, and cache-busting on widget update.
 - Designed a defense-in-depth public submission pipeline — Pydantic boundary validation, CORS/preflight handling, 3-tier rate limiting (429 + Retry-After), origin checks, honeypot and heuristic spam scoring, and fingerprint dedup.
