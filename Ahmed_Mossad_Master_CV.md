@@ -37,7 +37,7 @@
 
 ## Summary
 
-AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a completed backend AI internship at FlyRank. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Also completed AI Fluency internship at FlyRank and MEAN Stack training at NTI. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
+AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a completed backend AI internship at FlyRank. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Currently a Machine Learning Intern at FlyRank (Oct 2026 – Present) focusing on model training, evaluation, and production integration. Also completed AI Fluency internship at FlyRank and MEAN Stack training at NTI. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
 
 ---
 
@@ -54,6 +54,15 @@ AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, 
 - Implemented async background jobs with Redis + RQ: IP-to-geo enrichment through a provider fallback chain, fail-open fire-and-forget webhooks, and Groq LLM inference jobs with retry/backoff and idempotency keys.
 - Architected a layered router/service/repository backend with Protocol-typed repositories and dependency injection; parameterized SQL with tenant isolation on every query, with SQLite/PostgreSQL/in-memory backends swappable.
 - Maintained a 938-test suite at 100% coverage plus a GitHub Actions CI pipeline (isort → black → ruff → pytest) and a Docker Compose stack (FastAPI, PostgreSQL 16, Redis 7).
+
+### Machine Learning Intern — FlyRank
+**Oct 2026 – Present** · Chicago, IL, USA · Remote · ML Track
+
+- Assist in developing, training, and evaluating machine learning models using Python, PyTorch, and scikit-learn.
+- Prepare, clean, and analyze datasets for ML pipelines; perform feature engineering and data preprocessing.
+- Conduct experiments, hyperparameter tuning, and model performance evaluation across multiple algorithms.
+- Collaborate with engineering teams to integrate ML models into production services and APIs.
+- Research and prototype new ML techniques, document experiments, and maintain reproducible workflows.
 
 ### MEAN Stack Web Development Trainee — National Telecommunication Institute (NTI)
 **Aug 2026 – Sep 2026** · Advanced Summer Training Program 2026 · In collaboration with ITIDA
