@@ -64,6 +64,16 @@ AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, 
 - Architected a layered router/service/repository backend with Protocol-typed repositories and dependency injection; parameterized SQL with tenant isolation on every query, with SQLite/PostgreSQL/in-memory backends swappable.
 - Maintained a 938-test suite at 100% coverage plus a GitHub Actions CI pipeline (isort → black → ruff → pytest) and a Docker Compose stack (FastAPI, PostgreSQL 16, Redis 7).
 
+### AI Fluency Intern — FlyRank
+**Jun 2026 – Jul 2026** · Chicago, IL, USA · Remote · AI Fluency Track
+
+**Certificate:** [AI Fluency](https://drive.google.com/file/d/1XZUrMKdy5nHsrKH75P_dAZx9_ukqKUnt/view?usp=sharing)
+
+- Completed the FlyRank General AI Fluency track: built a personal AI operating system across Mindset, Practice, Output, and Judgment dimensions of the AI Builder Ladder.
+- Designed and documented a repeatable daily AI workflow with clear handoffs between chat, IDE, and automation tools (Claude, ChatGPT, Cursor).
+- Shipped a public portfolio artifact demonstrating AI as a core partner — live, verifiable work rather than passive course completion.
+- Built a personal quality checklist for evaluating AI output (accuracy, context, tone, completeness) and a failure-mode log with process improvements.
+- Completed 5+ assignments and a reviewed capstone; earned verifiable AI Fluency credential with public verification link.
 
 ### MEAN Stack Web Development Trainee — National Telecommunication Institute (NTI)
 **Aug 2026 – Sep 2026** · Advanced Summer Training Program 2026 · In collaboration with ITIDA
