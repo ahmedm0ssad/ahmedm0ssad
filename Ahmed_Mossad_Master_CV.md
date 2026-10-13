@@ -37,16 +37,17 @@
 
 ## Summary
 
-AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a backend AI internship. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
+AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a completed backend AI internship at FlyRank. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Also completed AI Fluency internship at FlyRank and MEAN Stack training at NTI. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
 
 ---
 
 ## Work Experience
 
 ### Backend AI Engineering Intern — FlyRank (ZC-UST)
-**Jul 2026 – Present** · Chicago, IL, USA · Remote · Backend AI Track
+**Jul 2026 – Sep 2026** · Chicago, IL, USA · Remote · Backend AI Track
 
 **GitHub:** [flyrank-backend](https://github.com/ahmedm0ssad/flyrank-backend)
+**Certificate:** [AI Backend Engineering](https://internship.flyrank.ai/api/documents/eafbe14e-c906-4eb4-b727-56bb016ca19c/pdf#navpanes=0&pagemode=none)
 
 - Built an embeddable widget and lead-capture platform in FastAPI: tenant-isolated widget CRUD, embeddable versioned JS bundle with immutable HTTP cache headers, and cache-busting on widget update.
 - Designed a defense-in-depth public submission pipeline — Pydantic boundary validation, CORS/preflight handling, 3-tier rate limiting (429 + Retry-After), origin checks, honeypot and heuristic spam scoring, and fingerprint dedup.
@@ -55,11 +56,11 @@ AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, 
 - Maintained a 938-test suite at 100% coverage plus a GitHub Actions CI pipeline (isort → black → ruff → pytest) and a Docker Compose stack (FastAPI, PostgreSQL 16, Redis 7).
 
 ### MEAN Stack Web Development Trainee — National Telecommunication Institute (NTI)
-**Aug 2026 – Present** · Advanced Summer Training Program 2026 · In collaboration with ITIDA
+**Aug 2026 – Sep 2026** · Advanced Summer Training Program 2026 · In collaboration with ITIDA
 
-- Selected for the Advanced Summer Training Program 2026, focusing on MEAN Stack Web Development.
-- Developing practical full-stack web development skills across frontend, backend, APIs, and database integration.
-- Building familiarity with the JavaScript/TypeScript ecosystem and modern web application architecture.
+- Completed the Advanced Summer Training Program 2026, focusing on MEAN Stack Web Development.
+- Developed practical full-stack web development skills across frontend, backend, APIs, and database integration.
+- Built familiarity with the JavaScript/TypeScript ecosystem and modern web application architecture.
 
 ### Programming Instructor — GEEK CODE
 **Jun 2026 – Jul 2026** · Remote
@@ -872,6 +873,14 @@ Graduated: June 2026
 - **AI Fluency: Framework & Foundations** — Anthropic Academy (2026)
   AI fluency and foundations credential for working effectively with large language model systems.
   [Verify certificate](https://verify.skilljar.com/c/w6om969xopr8)
+
+- **AI Fluency Internship** — FlyRank (2026)
+  Completed AI Fluency internship focusing on LLM fundamentals, prompt engineering, and AI system evaluation.
+  [Certificate](https://internship.flyrank.ai/api/documents/c2b98b88-b82e-43e1-bf66-3f88fb7375a1/pdf#navpanes=0&pagemode=none)
+
+- **AI Backend Engineering Internship** — FlyRank (2026)
+  Completed AI Backend Engineering internship building production-grade FastAPI backend with LLM inference, RAG pipelines, and async job processing.
+  [Certificate](https://internship.flyrank.ai/api/documents/eafbe14e-c906-4eb4-b727-56bb016ca19c/pdf#navpanes=0&pagemode=none)
 
 ---
 
